@@ -1,0 +1,80 @@
+2024-10-26 00:46:16.899 +03:00 [EROR] plugin:WeaponPaints You need to setup Database credentials in "configs/plugins/WeaponPaints/WeaponPaints.json"!
+2024-10-26 00:46:17.074 +03:00 [EROR] plugin:WeaponPaints Error while loading required plugins
+2024-10-26 00:48:36.654 +03:00 [EROR] plugin:WeaponPaints Unable to connect to database: Unable to connect to any of the specified MySQL hosts.
+2024-10-26 00:48:36.894 +03:00 [EROR] plugin:WeaponPaints Error while loading required plugins
+2024-10-26 00:48:36.964 +03:00 [INFO] plugin:WeaponPaints Plugin is up to date
+2024-10-26 00:51:39.376 +03:00 [EROR] plugin:WeaponPaints Unable to connect to database: Unable to connect to any of the specified MySQL hosts.
+2024-10-26 00:51:39.619 +03:00 [INFO] plugin:WeaponPaints Plugin is up to date
+2024-10-26 00:51:49.903 +03:00 [EROR] plugin:WeaponPaints Unable to connect to database: Unable to connect to any of the specified MySQL hosts.
+2024-10-26 00:51:54.108 +03:00 [EROR] plugin:WeaponPaints Unable to connect to database: Unable to connect to any of the specified MySQL hosts.
+2024-10-26 00:52:26.359 +03:00 [EROR] plugin:WeaponPaints Unable to connect to database: Unable to connect to any of the specified MySQL hosts.
+2024-10-26 00:52:32.714 +03:00 [EROR] plugin:WeaponPaints Unable to connect to database: Unable to connect to any of the specified MySQL hosts.
+2024-10-26 00:52:39.277 +03:00 [EROR] plugin:WeaponPaints Unable to connect to database: Unable to connect to any of the specified MySQL hosts.
+2024-10-26 00:52:51.761 +03:00 [EROR] plugin:WeaponPaints Unable to connect to database: Unable to connect to any of the specified MySQL hosts.
+2024-10-26 00:53:05.402 +03:00 [EROR] plugin:WeaponPaints Unable to connect to database: Unable to connect to any of the specified MySQL hosts.
+2024-10-26 00:53:05.622 +03:00 [INFO] plugin:WeaponPaints Plugin is up to date
+2024-10-26 00:53:17.704 +03:00 [INFO] plugin:WeaponPaints Plugin is up to date
+2024-10-26 01:02:20.279 +03:00 [EROR] plugin:WeaponPaints Unable to connect to database: Unable to connect to any of the specified MySQL hosts.
+2024-10-26 01:02:20.505 +03:00 [INFO] plugin:WeaponPaints Plugin is up to date
+2024-10-26 01:08:02.777 +03:00 [EROR] plugin:WeaponPaints Unable to connect to database: Unable to connect to any of the specified MySQL hosts.
+2024-10-26 01:08:03.181 +03:00 [INFO] plugin:WeaponPaints Plugin is up to date
+2024-10-26 01:12:07.547 +03:00 [EROR] plugin:WeaponPaints Unable to connect to database: Unable to connect to any of the specified MySQL hosts.
+2024-10-26 01:12:08.069 +03:00 [INFO] plugin:WeaponPaints Plugin is up to date
+2024-10-26 01:14:50.365 +03:00 [INFO] plugin:WeaponPaints Plugin is up to date
+2024-10-26 01:28:10.966 +03:00 [WARN] plugin:WeaponPaints Error setting weapon properties: Cannot set or get 'CEconEntity::m_flFallbackWear' with "FollowCS2ServerGuidelines" option enabled.
+2024-10-26 01:28:43.779 +03:00 [WARN] plugin:WeaponPaints Error setting weapon properties: Cannot set or get 'CEconEntity::m_flFallbackWear' with "FollowCS2ServerGuidelines" option enabled.
+2024-10-26 01:28:50.280 +03:00 [WARN] plugin:WeaponPaints Error setting weapon properties: Cannot set or get 'CEconEntity::m_flFallbackWear' with "FollowCS2ServerGuidelines" option enabled.
+2024-10-26 01:29:02.466 +03:00 [WARN] plugin:WeaponPaints Error setting weapon properties: Cannot set or get 'CEconEntity::m_flFallbackWear' with "FollowCS2ServerGuidelines" option enabled.
+2024-10-26 01:29:02.466 +03:00 [WARN] plugin:WeaponPaints Error setting weapon properties: Cannot set or get 'CEconEntity::m_flFallbackWear' with "FollowCS2ServerGuidelines" option enabled.
+2024-10-26 01:29:32.971 +03:00 [WARN] plugin:WeaponPaints Error setting weapon properties: Cannot set or get 'CEconEntity::m_flFallbackWear' with "FollowCS2ServerGuidelines" option enabled.
+2024-10-26 01:29:32.972 +03:00 [WARN] plugin:WeaponPaints Error setting weapon properties: Cannot set or get 'CEconEntity::m_flFallbackWear' with "FollowCS2ServerGuidelines" option enabled.
+2024-10-26 01:32:46.781 +03:00 [WARN] plugin:WeaponPaints Error setting weapon properties: Cannot set or get 'CEconEntity::m_flFallbackWear' with "FollowCS2ServerGuidelines" option enabled.
+2024-10-26 01:32:46.781 +03:00 [WARN] plugin:WeaponPaints Error setting weapon properties: Cannot set or get 'CEconEntity::m_flFallbackWear' with "FollowCS2ServerGuidelines" option enabled.
+2024-10-26 22:36:39.285 +03:00 [WARN] plugin:WeaponPaints Error setting weapon properties: Cannot set or get 'CEconEntity::m_flFallbackWear' with "FollowCS2ServerGuidelines" option enabled.
+2024-10-26 22:37:15.282 +03:00 [WARN] plugin:WeaponPaints Error setting weapon properties: Cannot set or get 'CEconEntity::m_flFallbackWear' with "FollowCS2ServerGuidelines" option enabled.
+2024-10-26 22:42:50.067 +03:00 [INFO] plugin:WeaponPaints Plugin is up to date
+2024-10-26 22:43:54.269 +03:00 [INFO] plugin:WeaponPaints Plugin is up to date
+2024-10-26 22:45:34.467 +03:00 [INFO] plugin:WeaponPaints Plugin is up to date
+2024-10-26 22:46:11.230 +03:00 [WARN] plugin:WeaponPaints Error setting weapon properties: Cannot set or get 'CEconEntity::m_flFallbackWear' with "FollowCS2ServerGuidelines" option enabled.
+2024-10-26 22:46:18.324 +03:00 [WARN] plugin:WeaponPaints Error setting weapon properties: Cannot set or get 'CEconEntity::m_flFallbackWear' with "FollowCS2ServerGuidelines" option enabled.
+2024-10-26 22:47:01.418 +03:00 [WARN] plugin:WeaponPaints Error setting weapon properties: Cannot set or get 'CEconEntity::m_flFallbackWear' with "FollowCS2ServerGuidelines" option enabled.
+2024-10-26 22:50:29.870 +03:00 [INFO] plugin:WeaponPaints Plugin is up to date
+2024-10-26 22:50:48.915 +03:00 [WARN] plugin:WeaponPaints Error setting weapon properties: Cannot set or get 'CEconEntity::m_flFallbackWear' with "FollowCS2ServerGuidelines" option enabled.
+2024-10-26 22:52:20.009 +03:00 [INFO] plugin:WeaponPaints Plugin is up to date
+2024-10-26 22:52:44.841 +03:00 [WARN] plugin:WeaponPaints Error setting weapon properties: Cannot set or get 'CEconEntity::m_flFallbackWear' with "FollowCS2ServerGuidelines" option enabled.
+2024-10-26 22:54:02.037 +03:00 [WARN] plugin:WeaponPaints Error setting weapon properties: Cannot set or get 'CEconEntity::m_flFallbackWear' with "FollowCS2ServerGuidelines" option enabled.
+2024-10-26 22:54:06.424 +03:00 [WARN] plugin:WeaponPaints Error setting weapon properties: Cannot set or get 'CEconEntity::m_flFallbackWear' with "FollowCS2ServerGuidelines" option enabled.
+2024-10-26 22:57:49.557 +03:00 [WARN] plugin:WeaponPaints Error setting weapon properties: Cannot set or get 'CEconEntity::m_flFallbackWear' with "FollowCS2ServerGuidelines" option enabled.
+2024-10-26 22:57:58.556 +03:00 [WARN] plugin:WeaponPaints Error setting weapon properties: Cannot set or get 'CEconEntity::m_flFallbackWear' with "FollowCS2ServerGuidelines" option enabled.
+2024-10-26 22:58:22.948 +03:00 [WARN] plugin:WeaponPaints Error setting weapon properties: Cannot set or get 'CEconEntity::m_flFallbackWear' with "FollowCS2ServerGuidelines" option enabled.
+2024-10-26 22:58:29.852 +03:00 [WARN] plugin:WeaponPaints Error setting weapon properties: Cannot set or get 'CEconEntity::m_flFallbackWear' with "FollowCS2ServerGuidelines" option enabled.
+2024-10-26 22:58:52.558 +03:00 [WARN] plugin:WeaponPaints Error setting weapon properties: Cannot set or get 'CEconEntity::m_flFallbackWear' with "FollowCS2ServerGuidelines" option enabled.
+2024-10-26 22:58:56.759 +03:00 [WARN] plugin:WeaponPaints Error setting weapon properties: Cannot set or get 'CEconEntity::m_flFallbackWear' with "FollowCS2ServerGuidelines" option enabled.
+2024-10-26 22:59:04.558 +03:00 [WARN] plugin:WeaponPaints Error setting weapon properties: Cannot set or get 'CEconEntity::m_flFallbackWear' with "FollowCS2ServerGuidelines" option enabled.
+2024-10-26 22:59:18.355 +03:00 [WARN] plugin:WeaponPaints Error setting weapon properties: Cannot set or get 'CEconEntity::m_flFallbackWear' with "FollowCS2ServerGuidelines" option enabled.
+2024-10-26 22:59:20.759 +03:00 [WARN] plugin:WeaponPaints Error setting weapon properties: Cannot set or get 'CEconEntity::m_flFallbackWear' with "FollowCS2ServerGuidelines" option enabled.
+2024-10-26 22:59:37.854 +03:00 [WARN] plugin:WeaponPaints Error setting weapon properties: Cannot set or get 'CEconEntity::m_flFallbackWear' with "FollowCS2ServerGuidelines" option enabled.
+2024-10-26 22:59:53.448 +03:00 [WARN] plugin:WeaponPaints Error setting weapon properties: Cannot set or get 'CEconEntity::m_flFallbackWear' with "FollowCS2ServerGuidelines" option enabled.
+2024-10-26 23:02:05.214 +03:00 [INFO] plugin:WeaponPaints Plugin is up to date
+2024-10-26 23:11:53.994 +03:00 [EROR] plugin:WeaponPaints You need to setup Database credentials in "configs/plugins/WeaponPaints/WeaponPaints.json"!
+2024-10-26 23:12:58.335 +03:00 [INFO] plugin:WeaponPaints Plugin is up to date
+2024-10-26 23:18:56.291 +03:00 [EROR] plugin:WeaponPaints You need to setup Database credentials in "configs/plugins/WeaponPaints/WeaponPaints.json"!
+2024-10-26 23:19:47.110 +03:00 [WARN] plugin:WeaponPaints Plugin is outdated! Check https://github.com/Nereziel/cs2-WeaponPaints
+2024-10-26 23:20:28.872 +03:00 [WARN] plugin:WeaponPaints Error setting weapon properties: Cannot set or get 'CEconEntity::m_flFallbackWear' with "FollowCS2ServerGuidelines" option enabled.
+2024-10-26 23:23:58.984 +03:00 [WARN] plugin:WeaponPaints Error setting weapon properties: Cannot set or get 'CEconEntity::m_flFallbackWear' with "FollowCS2ServerGuidelines" option enabled.
+2024-10-26 23:24:00.685 +03:00 [WARN] plugin:WeaponPaints Error setting weapon properties: Cannot set or get 'CEconEntity::m_flFallbackWear' with "FollowCS2ServerGuidelines" option enabled.
+2024-10-26 23:24:01.779 +03:00 [WARN] plugin:WeaponPaints Error setting weapon properties: Cannot set or get 'CEconEntity::m_flFallbackWear' with "FollowCS2ServerGuidelines" option enabled.
+2024-10-26 23:24:03.372 +03:00 [WARN] plugin:WeaponPaints Error setting weapon properties: Cannot set or get 'CEconEntity::m_flFallbackWear' with "FollowCS2ServerGuidelines" option enabled.
+2024-10-26 23:24:04.686 +03:00 [WARN] plugin:WeaponPaints Error setting weapon properties: Cannot set or get 'CEconEntity::m_flFallbackWear' with "FollowCS2ServerGuidelines" option enabled.
+2024-10-26 23:24:06.280 +03:00 [WARN] plugin:WeaponPaints Error setting weapon properties: Cannot set or get 'CEconEntity::m_flFallbackWear' with "FollowCS2ServerGuidelines" option enabled.
+2024-10-26 23:24:09.076 +03:00 [WARN] plugin:WeaponPaints Error setting weapon properties: Cannot set or get 'CEconEntity::m_flFallbackWear' with "FollowCS2ServerGuidelines" option enabled.
+2024-10-26 23:24:09.685 +03:00 [WARN] plugin:WeaponPaints Error setting weapon properties: Cannot set or get 'CEconEntity::m_flFallbackWear' with "FollowCS2ServerGuidelines" option enabled.
+2024-10-26 23:24:21.982 +03:00 [WARN] plugin:WeaponPaints Error setting weapon properties: Cannot set or get 'CEconEntity::m_flFallbackWear' with "FollowCS2ServerGuidelines" option enabled.
+2024-10-26 23:25:45.780 +03:00 [WARN] plugin:WeaponPaints Error setting weapon properties: Cannot set or get 'CEconEntity::m_flFallbackWear' with "FollowCS2ServerGuidelines" option enabled.
+2024-10-26 23:25:49.575 +03:00 [WARN] plugin:WeaponPaints Error setting weapon properties: Cannot set or get 'CEconEntity::m_flFallbackWear' with "FollowCS2ServerGuidelines" option enabled.
+2024-10-26 23:27:20.564 +03:00 [WARN] plugin:WeaponPaints Plugin is outdated! Check https://github.com/Nereziel/cs2-WeaponPaints
+2024-10-26 23:30:18.314 +03:00 [WARN] plugin:WeaponPaints Error setting weapon properties: Cannot set or get 'CEconEntity::m_flFallbackWear' with "FollowCS2ServerGuidelines" option enabled.
+2024-10-26 23:30:21.312 +03:00 [WARN] plugin:WeaponPaints Error setting weapon properties: Cannot set or get 'CEconEntity::m_flFallbackWear' with "FollowCS2ServerGuidelines" option enabled.
+2024-10-26 23:31:51.516 +03:00 [WARN] plugin:WeaponPaints Error setting weapon properties: Cannot set or get 'CEconEntity::m_flFallbackWear' with "FollowCS2ServerGuidelines" option enabled.
+2024-10-26 23:33:25.611 +03:00 [WARN] plugin:WeaponPaints Error setting weapon properties: Cannot set or get 'CEconEntity::m_flFallbackWear' with "FollowCS2ServerGuidelines" option enabled.
+2024-10-26 23:37:54.565 +03:00 [WARN] plugin:WeaponPaints Plugin is outdated! Check https://github.com/Nereziel/cs2-WeaponPaints

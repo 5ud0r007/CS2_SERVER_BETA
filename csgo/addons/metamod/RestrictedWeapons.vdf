@@ -1,0 +1,5 @@
+"Metamod Plugin"
+{
+	"alias"	"RestrictedWeapons"
+	"file"	"addons/RestrictedWeapons/RestrictedWeapons"
+}

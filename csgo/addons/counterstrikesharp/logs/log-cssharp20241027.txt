@@ -1,0 +1,1137 @@
+2024-10-27 00:03:07.270 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2024-10-27 00:03:07.344 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2024-10-27 00:03:07.352 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 38 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2024-10-27 00:03:07.354 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 3 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/weaponpaints.json
+2024-10-27 00:03:07.354 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/container/game/csgo/addons/counterstrikesharp/configs/admins.json
+2024-10-27 00:03:07.355 +03:00 [WARN] (cssharp:AdminManager) Admin data file not found. Skipping admin data load.
+2024-10-27 00:03:07.355 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2024-10-27 00:03:07.356 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2024-10-27 00:03:07.552 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2024-10-27 00:03:07.591 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2024-10-27 00:03:07.607 +03:00 [INFO] (cssharp:PluginContext) Loading plugin WeaponPaints
+2024-10-27 00:03:08.078 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin WeaponPaints
+2024-10-27 00:03:08.094 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2024-10-27 00:03:08.099 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2024-10-27 00:04:05.846 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2024-10-27 00:04:05.926 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2024-10-27 00:04:05.935 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 38 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2024-10-27 00:04:05.937 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 3 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/weaponpaints.json
+2024-10-27 00:04:05.937 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/container/game/csgo/addons/counterstrikesharp/configs/admins.json
+2024-10-27 00:04:05.938 +03:00 [WARN] (cssharp:AdminManager) Admin data file not found. Skipping admin data load.
+2024-10-27 00:04:05.938 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2024-10-27 00:04:05.939 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2024-10-27 00:04:06.160 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2024-10-27 00:04:06.200 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2024-10-27 00:04:06.219 +03:00 [INFO] (cssharp:PluginContext) Loading plugin WeaponPaints
+2024-10-27 00:04:06.693 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin WeaponPaints
+2024-10-27 00:04:06.709 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2024-10-27 00:04:06.767 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2024-10-27 00:25:13.009 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2024-10-27 00:25:13.091 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2024-10-27 00:25:13.098 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 38 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2024-10-27 00:25:13.101 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 3 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/weaponpaints.json
+2024-10-27 00:25:13.101 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/container/game/csgo/addons/counterstrikesharp/configs/admins.json
+2024-10-27 00:25:13.102 +03:00 [WARN] (cssharp:AdminManager) Admin data file not found. Skipping admin data load.
+2024-10-27 00:25:13.102 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2024-10-27 00:25:13.103 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2024-10-27 00:25:13.314 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2024-10-27 00:25:13.356 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2024-10-27 00:25:13.378 +03:00 [INFO] (cssharp:PluginContext) Loading plugin WeaponPaints
+2024-10-27 00:25:13.865 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin WeaponPaints
+2024-10-27 00:25:13.879 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2024-10-27 00:25:13.884 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2024-10-27 00:27:09.697 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2024-10-27 00:27:09.784 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2024-10-27 00:27:09.793 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 38 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2024-10-27 00:27:09.795 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 3 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/weaponpaints.json
+2024-10-27 00:27:09.796 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/container/game/csgo/addons/counterstrikesharp/configs/admins.json
+2024-10-27 00:27:09.797 +03:00 [WARN] (cssharp:AdminManager) Admin data file not found. Skipping admin data load.
+2024-10-27 00:27:09.797 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2024-10-27 00:27:09.797 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2024-10-27 00:27:10.017 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2024-10-27 00:27:10.059 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2024-10-27 00:27:10.083 +03:00 [INFO] (cssharp:PluginContext) Loading plugin WeaponPaints
+2024-10-27 00:27:10.585 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin WeaponPaints
+2024-10-27 00:27:10.599 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2024-10-27 00:27:10.603 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2024-10-27 00:27:55.375 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2024-10-27 00:27:55.466 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2024-10-27 00:27:55.475 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 38 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2024-10-27 00:27:55.478 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 3 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/weaponpaints.json
+2024-10-27 00:27:55.478 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/container/game/csgo/addons/counterstrikesharp/configs/admins.json
+2024-10-27 00:27:55.479 +03:00 [WARN] (cssharp:AdminManager) Admin data file not found. Skipping admin data load.
+2024-10-27 00:27:55.479 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2024-10-27 00:27:55.480 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2024-10-27 00:27:55.714 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2024-10-27 00:27:55.756 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2024-10-27 00:27:55.780 +03:00 [INFO] (cssharp:PluginContext) Loading plugin WeaponPaints
+2024-10-27 00:27:56.278 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin WeaponPaints
+2024-10-27 00:27:56.294 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2024-10-27 00:27:56.299 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2024-10-27 00:28:10.021 +03:00 [EROR] (cssharp:Core) Error invoking callback
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.FormatException: Input string was not in a correct format. Failure to parse near offset 11. Expected an ASCII digit.
+   at System.Text.ValueStringBuilder.AppendFormatHelper(IFormatProvider provider, String format, ReadOnlySpan`1 args)
+   at System.String.FormatHelper(IFormatProvider provider, String format, ReadOnlySpan`1 args)
+   at System.String.Format(String format, Object[] args)
+   at CounterStrikeSharp.API.Core.Translations.JsonStringLocalizer.get_Item(String name, Object[] arguments) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/Translations/JsonStringLocalizer.cs:line 50
+   at CounterStrikeSharp.API.Core.Translations.StringLocalizer.get_Item(String name, Object[] arguments) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/Translations/StringLocalizer.cs:line 20
+   at WeaponPaints.WeaponPaints.OnCommandWS(CCSPlayerController player, CommandInfo command) in /home/runner/work/cs2-WeaponPaints/cs2-WeaponPaints/Commands.cs:line 70
+   at WeaponPaints.WeaponPaints.<RegisterCommands>b__2_5(CCSPlayerController player, CommandInfo info) in /home/runner/work/cs2-WeaponPaints/cs2-WeaponPaints/Commands.cs:line 125
+   at CounterStrikeSharp.API.Core.Commands.CommandManager.HandleCommandInternal(Int32 playerSlot, IntPtr commandInfo) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/Commands/CommandManager.cs:line 164
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodBaseInvoker.InvokeDirectByRefWithFewArgs(Object obj, Span`1 copyOfArgs, BindingFlags invokeAttr)
+   --- End of inner exception stack trace ---
+   at System.Reflection.MethodBaseInvoker.InvokeDirectByRefWithFewArgs(Object obj, Span`1 copyOfArgs, BindingFlags invokeAttr)
+   at System.Reflection.MethodBaseInvoker.InvokeWithFewArgs(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at CounterStrikeSharp.API.Core.FunctionReference.<CreateWrappedCallback>b__18_0(fxScriptContext* context) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/FunctionReference.cs:line 100
+2024-10-27 00:28:12.987 +03:00 [EROR] (cssharp:Core) Error invoking callback
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.FormatException: Input string was not in a correct format. Failure to parse near offset 11. Expected an ASCII digit.
+   at System.Text.ValueStringBuilder.AppendFormatHelper(IFormatProvider provider, String format, ReadOnlySpan`1 args)
+   at System.String.FormatHelper(IFormatProvider provider, String format, ReadOnlySpan`1 args)
+   at System.String.Format(String format, Object[] args)
+   at CounterStrikeSharp.API.Core.Translations.JsonStringLocalizer.get_Item(String name, Object[] arguments) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/Translations/JsonStringLocalizer.cs:line 50
+   at CounterStrikeSharp.API.Core.Translations.StringLocalizer.get_Item(String name, Object[] arguments) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/Translations/StringLocalizer.cs:line 20
+   at WeaponPaints.WeaponPaints.OnCommandWS(CCSPlayerController player, CommandInfo command) in /home/runner/work/cs2-WeaponPaints/cs2-WeaponPaints/Commands.cs:line 70
+   at WeaponPaints.WeaponPaints.<RegisterCommands>b__2_5(CCSPlayerController player, CommandInfo info) in /home/runner/work/cs2-WeaponPaints/cs2-WeaponPaints/Commands.cs:line 125
+   at CounterStrikeSharp.API.Core.Commands.CommandManager.HandleCommandInternal(Int32 playerSlot, IntPtr commandInfo) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/Commands/CommandManager.cs:line 164
+   at InvokeStub_Action`2.Invoke(Object, Span`1)
+   at System.Reflection.MethodBaseInvoker.InvokeWithFewArgs(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   --- End of inner exception stack trace ---
+   at System.Reflection.MethodBaseInvoker.InvokeWithFewArgs(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at CounterStrikeSharp.API.Core.FunctionReference.<CreateWrappedCallback>b__18_0(fxScriptContext* context) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/FunctionReference.cs:line 100
+2024-10-27 00:29:46.748 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2024-10-27 00:29:46.827 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2024-10-27 00:29:46.835 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 38 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2024-10-27 00:29:46.837 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 3 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/weaponpaints.json
+2024-10-27 00:29:46.838 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/container/game/csgo/addons/counterstrikesharp/configs/admins.json
+2024-10-27 00:29:46.839 +03:00 [WARN] (cssharp:AdminManager) Admin data file not found. Skipping admin data load.
+2024-10-27 00:29:46.839 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2024-10-27 00:29:46.840 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2024-10-27 00:29:47.068 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2024-10-27 00:29:47.112 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2024-10-27 00:29:47.129 +03:00 [INFO] (cssharp:PluginContext) Loading plugin WeaponPaints
+2024-10-27 00:29:47.574 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin WeaponPaints
+2024-10-27 00:29:47.589 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2024-10-27 00:29:47.594 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2024-10-27 00:30:02.607 +03:00 [EROR] (cssharp:Core) Error invoking callback
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.FormatException: Input string was not in a correct format. Failure to parse near offset 11. Expected an ASCII digit.
+   at System.Text.ValueStringBuilder.AppendFormatHelper(IFormatProvider provider, String format, ReadOnlySpan`1 args)
+   at System.String.FormatHelper(IFormatProvider provider, String format, ReadOnlySpan`1 args)
+   at System.String.Format(String format, Object[] args)
+   at CounterStrikeSharp.API.Core.Translations.JsonStringLocalizer.get_Item(String name, Object[] arguments) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/Translations/JsonStringLocalizer.cs:line 50
+   at CounterStrikeSharp.API.Core.Translations.StringLocalizer.get_Item(String name, Object[] arguments) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/Translations/StringLocalizer.cs:line 20
+   at WeaponPaints.WeaponPaints.OnCommandWS(CCSPlayerController player, CommandInfo command) in /home/runner/work/cs2-WeaponPaints/cs2-WeaponPaints/Commands.cs:line 70
+   at WeaponPaints.WeaponPaints.<RegisterCommands>b__2_5(CCSPlayerController player, CommandInfo info) in /home/runner/work/cs2-WeaponPaints/cs2-WeaponPaints/Commands.cs:line 125
+   at CounterStrikeSharp.API.Core.Commands.CommandManager.HandleCommandInternal(Int32 playerSlot, IntPtr commandInfo) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/Commands/CommandManager.cs:line 164
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodBaseInvoker.InvokeDirectByRefWithFewArgs(Object obj, Span`1 copyOfArgs, BindingFlags invokeAttr)
+   --- End of inner exception stack trace ---
+   at System.Reflection.MethodBaseInvoker.InvokeDirectByRefWithFewArgs(Object obj, Span`1 copyOfArgs, BindingFlags invokeAttr)
+   at System.Reflection.MethodBaseInvoker.InvokeWithFewArgs(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at CounterStrikeSharp.API.Core.FunctionReference.<CreateWrappedCallback>b__18_0(fxScriptContext* context) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/FunctionReference.cs:line 100
+2024-10-27 00:31:15.108 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2024-10-27 00:31:15.187 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2024-10-27 00:31:15.195 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 38 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2024-10-27 00:31:15.197 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 3 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/weaponpaints.json
+2024-10-27 00:31:15.198 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/container/game/csgo/addons/counterstrikesharp/configs/admins.json
+2024-10-27 00:31:15.199 +03:00 [WARN] (cssharp:AdminManager) Admin data file not found. Skipping admin data load.
+2024-10-27 00:31:15.199 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2024-10-27 00:31:15.200 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2024-10-27 00:31:15.423 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2024-10-27 00:31:15.468 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2024-10-27 00:31:15.487 +03:00 [INFO] (cssharp:PluginContext) Loading plugin WeaponPaints
+2024-10-27 00:31:15.975 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin WeaponPaints
+2024-10-27 00:31:15.993 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2024-10-27 00:31:16.067 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2024-10-27 00:31:31.838 +03:00 [EROR] (cssharp:Core) Error invoking callback
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.FormatException: Input string was not in a correct format. Failure to parse near offset 11. Expected an ASCII digit.
+   at System.Text.ValueStringBuilder.AppendFormatHelper(IFormatProvider provider, String format, ReadOnlySpan`1 args)
+   at System.String.FormatHelper(IFormatProvider provider, String format, ReadOnlySpan`1 args)
+   at System.String.Format(String format, Object[] args)
+   at CounterStrikeSharp.API.Core.Translations.JsonStringLocalizer.get_Item(String name, Object[] arguments) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/Translations/JsonStringLocalizer.cs:line 50
+   at CounterStrikeSharp.API.Core.Translations.StringLocalizer.get_Item(String name, Object[] arguments) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/Translations/StringLocalizer.cs:line 20
+   at WeaponPaints.WeaponPaints.OnCommandWS(CCSPlayerController player, CommandInfo command) in /home/runner/work/cs2-WeaponPaints/cs2-WeaponPaints/Commands.cs:line 70
+   at WeaponPaints.WeaponPaints.<RegisterCommands>b__2_5(CCSPlayerController player, CommandInfo info) in /home/runner/work/cs2-WeaponPaints/cs2-WeaponPaints/Commands.cs:line 125
+   at CounterStrikeSharp.API.Core.Commands.CommandManager.HandleCommandInternal(Int32 playerSlot, IntPtr commandInfo) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/Commands/CommandManager.cs:line 164
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodBaseInvoker.InvokeDirectByRefWithFewArgs(Object obj, Span`1 copyOfArgs, BindingFlags invokeAttr)
+   --- End of inner exception stack trace ---
+   at System.Reflection.MethodBaseInvoker.InvokeDirectByRefWithFewArgs(Object obj, Span`1 copyOfArgs, BindingFlags invokeAttr)
+   at System.Reflection.MethodBaseInvoker.InvokeWithFewArgs(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at CounterStrikeSharp.API.Core.FunctionReference.<CreateWrappedCallback>b__18_0(fxScriptContext* context) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/FunctionReference.cs:line 100
+2024-10-27 00:31:45.413 +03:00 [EROR] (cssharp:Core) Error invoking callback
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.FormatException: Input string was not in a correct format. Failure to parse near offset 11. Expected an ASCII digit.
+   at System.Text.ValueStringBuilder.AppendFormatHelper(IFormatProvider provider, String format, ReadOnlySpan`1 args)
+   at System.String.FormatHelper(IFormatProvider provider, String format, ReadOnlySpan`1 args)
+   at System.String.Format(String format, Object[] args)
+   at CounterStrikeSharp.API.Core.Translations.JsonStringLocalizer.get_Item(String name, Object[] arguments) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/Translations/JsonStringLocalizer.cs:line 50
+   at CounterStrikeSharp.API.Core.Translations.StringLocalizer.get_Item(String name, Object[] arguments) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/Translations/StringLocalizer.cs:line 20
+   at WeaponPaints.WeaponPaints.OnCommandWS(CCSPlayerController player, CommandInfo command) in /home/runner/work/cs2-WeaponPaints/cs2-WeaponPaints/Commands.cs:line 70
+   at WeaponPaints.WeaponPaints.<RegisterCommands>b__2_5(CCSPlayerController player, CommandInfo info) in /home/runner/work/cs2-WeaponPaints/cs2-WeaponPaints/Commands.cs:line 125
+   at CounterStrikeSharp.API.Core.Commands.CommandManager.HandleCommandInternal(Int32 playerSlot, IntPtr commandInfo) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/Commands/CommandManager.cs:line 164
+   at InvokeStub_Action`2.Invoke(Object, Span`1)
+   at System.Reflection.MethodBaseInvoker.InvokeWithFewArgs(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   --- End of inner exception stack trace ---
+   at System.Reflection.MethodBaseInvoker.InvokeWithFewArgs(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at CounterStrikeSharp.API.Core.FunctionReference.<CreateWrappedCallback>b__18_0(fxScriptContext* context) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/FunctionReference.cs:line 100
+2024-10-27 00:32:43.550 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2024-10-27 00:32:43.642 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2024-10-27 00:32:43.651 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 38 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2024-10-27 00:32:43.654 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 3 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/weaponpaints.json
+2024-10-27 00:32:43.654 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/container/game/csgo/addons/counterstrikesharp/configs/admins.json
+2024-10-27 00:32:43.655 +03:00 [WARN] (cssharp:AdminManager) Admin data file not found. Skipping admin data load.
+2024-10-27 00:32:43.655 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2024-10-27 00:32:43.656 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2024-10-27 00:32:43.944 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2024-10-27 00:32:43.992 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2024-10-27 00:32:44.015 +03:00 [INFO] (cssharp:PluginContext) Loading plugin WeaponPaints
+2024-10-27 00:32:44.569 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin WeaponPaints
+2024-10-27 00:32:44.587 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2024-10-27 00:32:44.592 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2024-10-27 00:34:48.791 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2024-10-27 00:34:48.872 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2024-10-27 00:34:48.879 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 38 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2024-10-27 00:34:48.881 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 3 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/weaponpaints.json
+2024-10-27 00:34:48.882 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/container/game/csgo/addons/counterstrikesharp/configs/admins.json
+2024-10-27 00:34:48.883 +03:00 [WARN] (cssharp:AdminManager) Admin data file not found. Skipping admin data load.
+2024-10-27 00:34:48.883 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2024-10-27 00:34:48.884 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2024-10-27 00:34:49.096 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2024-10-27 00:34:49.140 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2024-10-27 00:34:49.168 +03:00 [INFO] (cssharp:PluginContext) Loading plugin WeaponPaints
+2024-10-27 00:34:49.670 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin WeaponPaints
+2024-10-27 00:34:49.687 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2024-10-27 00:34:49.692 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2024-10-27 00:36:02.095 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2024-10-27 00:36:02.179 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2024-10-27 00:36:02.187 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 38 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2024-10-27 00:36:02.190 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 3 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/weaponpaints.json
+2024-10-27 00:36:02.190 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/container/game/csgo/addons/counterstrikesharp/configs/admins.json
+2024-10-27 00:36:02.191 +03:00 [WARN] (cssharp:AdminManager) Admin data file not found. Skipping admin data load.
+2024-10-27 00:36:02.191 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2024-10-27 00:36:02.192 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2024-10-27 00:36:02.415 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2024-10-27 00:36:02.456 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2024-10-27 00:36:02.474 +03:00 [INFO] (cssharp:PluginContext) Loading plugin WeaponPaints
+2024-10-27 00:36:02.976 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin WeaponPaints
+2024-10-27 00:36:02.994 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2024-10-27 00:36:02.999 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2024-10-27 00:42:23.102 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2024-10-27 00:42:23.193 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2024-10-27 00:42:23.202 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 38 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2024-10-27 00:42:23.204 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 3 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/weaponpaints.json
+2024-10-27 00:42:23.205 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/container/game/csgo/addons/counterstrikesharp/configs/admins.json
+2024-10-27 00:42:23.206 +03:00 [WARN] (cssharp:AdminManager) Admin data file not found. Skipping admin data load.
+2024-10-27 00:42:23.206 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2024-10-27 00:42:23.207 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2024-10-27 00:42:23.434 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_SocietyLogs
+2024-10-27 00:42:23.467 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_SocietyLogs
+2024-10-27 00:42:23.475 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2024-10-27 00:42:23.510 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2024-10-27 00:42:23.525 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin
+2024-10-27 00:42:23.574 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin
+2024-10-27 00:42:23.592 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_AdminList
+2024-10-27 00:42:23.593 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_AdminList
+2024-10-27 00:42:23.612 +03:00 [INFO] (cssharp:PluginContext) Loading plugin WeaponPaints
+2024-10-27 00:42:24.207 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin WeaponPaints
+2024-10-27 00:42:24.272 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2024-10-27 00:42:24.277 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2024-10-27 00:47:25.898 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2024-10-27 00:47:25.980 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2024-10-27 00:47:25.988 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 38 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2024-10-27 00:47:25.991 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 3 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/weaponpaints.json
+2024-10-27 00:47:25.991 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/container/game/csgo/addons/counterstrikesharp/configs/admins.json
+2024-10-27 00:47:25.992 +03:00 [WARN] (cssharp:AdminManager) Admin data file not found. Skipping admin data load.
+2024-10-27 00:47:25.992 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2024-10-27 00:47:25.992 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2024-10-27 00:47:26.213 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_SocietyLogs
+2024-10-27 00:47:26.245 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_SocietyLogs
+2024-10-27 00:47:26.252 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2024-10-27 00:47:26.285 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2024-10-27 00:47:26.300 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin
+2024-10-27 00:47:26.333 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin
+2024-10-27 00:47:26.368 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_AdminList
+2024-10-27 00:47:26.369 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_AdminList
+2024-10-27 00:47:26.391 +03:00 [INFO] (cssharp:PluginContext) Loading plugin WeaponPaints
+2024-10-27 00:47:27.076 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin WeaponPaints
+2024-10-27 00:47:27.094 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2024-10-27 00:47:27.165 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2024-10-27 00:50:03.584 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2024-10-27 00:50:03.658 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2024-10-27 00:50:03.670 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 38 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2024-10-27 00:50:03.673 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 3 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/weaponpaints.json
+2024-10-27 00:50:03.673 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/container/game/csgo/addons/counterstrikesharp/configs/admins.json
+2024-10-27 00:50:03.674 +03:00 [WARN] (cssharp:AdminManager) Admin data file not found. Skipping admin data load.
+2024-10-27 00:50:03.674 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2024-10-27 00:50:03.675 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2024-10-27 00:50:03.888 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_SocietyLogs
+2024-10-27 00:50:03.919 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_SocietyLogs
+2024-10-27 00:50:03.926 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2024-10-27 00:50:03.957 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2024-10-27 00:50:03.976 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin
+2024-10-27 00:50:04.008 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin
+2024-10-27 00:50:04.023 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_AdminList
+2024-10-27 00:50:04.025 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_AdminList
+2024-10-27 00:50:04.076 +03:00 [INFO] (cssharp:PluginContext) Loading plugin WeaponPaints
+2024-10-27 00:50:04.707 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin WeaponPaints
+2024-10-27 00:50:04.772 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2024-10-27 00:50:04.778 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2024-10-27 01:31:57.877 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2024-10-27 01:31:57.951 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2024-10-27 01:31:57.960 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 38 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2024-10-27 01:31:57.962 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 3 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/weaponpaints.json
+2024-10-27 01:31:57.962 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/container/game/csgo/addons/counterstrikesharp/configs/admins.json
+2024-10-27 01:31:57.963 +03:00 [WARN] (cssharp:AdminManager) Admin data file not found. Skipping admin data load.
+2024-10-27 01:31:57.963 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2024-10-27 01:31:57.964 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2024-10-27 01:31:58.164 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_SocietyLogs
+2024-10-27 01:31:58.194 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_SocietyLogs
+2024-10-27 01:31:58.201 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2024-10-27 01:31:58.231 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2024-10-27 01:31:58.245 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin
+2024-10-27 01:31:58.289 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin
+2024-10-27 01:31:58.304 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_AdminList
+2024-10-27 01:31:58.305 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_AdminList
+2024-10-27 01:31:58.320 +03:00 [INFO] (cssharp:PluginContext) Loading plugin WeaponPaints
+2024-10-27 01:31:58.978 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin WeaponPaints
+2024-10-27 01:31:58.992 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2024-10-27 01:31:58.998 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2024-10-27 01:42:36.049 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2024-10-27 01:42:36.128 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2024-10-27 01:42:36.136 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 38 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2024-10-27 01:42:36.138 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 3 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/weaponpaints.json
+2024-10-27 01:42:36.138 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/container/game/csgo/addons/counterstrikesharp/configs/admins.json
+2024-10-27 01:42:36.139 +03:00 [WARN] (cssharp:AdminManager) Admin data file not found. Skipping admin data load.
+2024-10-27 01:42:36.140 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2024-10-27 01:42:36.140 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2024-10-27 01:42:36.361 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_SocietyLogs
+2024-10-27 01:42:36.393 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_SocietyLogs
+2024-10-27 01:42:36.400 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2024-10-27 01:42:36.433 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2024-10-27 01:42:36.447 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin
+2024-10-27 01:42:36.488 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin
+2024-10-27 01:42:36.501 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_AdminList
+2024-10-27 01:42:36.502 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_AdminList
+2024-10-27 01:42:36.519 +03:00 [INFO] (cssharp:PluginContext) Loading plugin WeaponPaints
+2024-10-27 01:42:37.186 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin WeaponPaints
+2024-10-27 01:42:37.204 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2024-10-27 01:42:37.265 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2024-10-27 01:46:23.479 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2024-10-27 01:46:23.555 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2024-10-27 01:46:23.563 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 38 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2024-10-27 01:46:23.566 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 3 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/weaponpaints.json
+2024-10-27 01:46:23.566 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/container/game/csgo/addons/counterstrikesharp/configs/admins.json
+2024-10-27 01:46:23.566 +03:00 [WARN] (cssharp:AdminManager) Admin data file not found. Skipping admin data load.
+2024-10-27 01:46:23.567 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2024-10-27 01:46:23.567 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2024-10-27 01:46:23.773 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_SocietyLogs
+2024-10-27 01:46:23.802 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_SocietyLogs
+2024-10-27 01:46:23.809 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2024-10-27 01:46:23.839 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2024-10-27 01:46:23.852 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin
+2024-10-27 01:46:23.887 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin
+2024-10-27 01:46:23.902 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_AdminList
+2024-10-27 01:46:23.902 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_AdminList
+2024-10-27 01:46:23.919 +03:00 [INFO] (cssharp:PluginContext) Loading plugin WeaponPaints
+2024-10-27 01:46:24.596 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin WeaponPaints
+2024-10-27 01:46:24.678 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2024-10-27 01:46:24.684 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2024-10-27 01:51:05.725 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2024-10-27 01:51:05.800 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2024-10-27 01:51:05.807 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 38 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2024-10-27 01:51:05.809 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 3 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/weaponpaints.json
+2024-10-27 01:51:05.810 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/container/game/csgo/addons/counterstrikesharp/configs/admins.json
+2024-10-27 01:51:05.811 +03:00 [WARN] (cssharp:AdminManager) Admin data file not found. Skipping admin data load.
+2024-10-27 01:51:05.811 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2024-10-27 01:51:05.812 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2024-10-27 01:51:06.002 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_SocietyLogs
+2024-10-27 01:51:06.031 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_SocietyLogs
+2024-10-27 01:51:06.038 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2024-10-27 01:51:06.075 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2024-10-27 01:51:06.089 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin
+2024-10-27 01:51:06.121 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin
+2024-10-27 01:51:06.134 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_AdminList
+2024-10-27 01:51:06.134 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_AdminList
+2024-10-27 01:51:06.179 +03:00 [INFO] (cssharp:PluginContext) Loading plugin WeaponPaints
+2024-10-27 01:51:06.802 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin WeaponPaints
+2024-10-27 01:51:06.877 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2024-10-27 01:51:06.881 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2024-10-27 01:52:56.322 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2024-10-27 01:52:56.403 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2024-10-27 01:52:56.411 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 38 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2024-10-27 01:52:56.413 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 3 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/weaponpaints.json
+2024-10-27 01:52:56.413 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/container/game/csgo/addons/counterstrikesharp/configs/admins.json
+2024-10-27 01:52:56.414 +03:00 [WARN] (cssharp:AdminManager) Admin data file not found. Skipping admin data load.
+2024-10-27 01:52:56.414 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2024-10-27 01:52:56.415 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2024-10-27 01:52:56.629 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_SocietyLogs
+2024-10-27 01:52:56.660 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_SocietyLogs
+2024-10-27 01:52:56.667 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2024-10-27 01:52:56.702 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2024-10-27 01:52:56.718 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin
+2024-10-27 01:52:56.751 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin
+2024-10-27 01:52:56.774 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_AdminList
+2024-10-27 01:52:56.775 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_AdminList
+2024-10-27 01:52:56.791 +03:00 [INFO] (cssharp:PluginContext) Loading plugin WeaponPaints
+2024-10-27 01:52:57.401 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin WeaponPaints
+2024-10-27 01:52:57.478 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2024-10-27 01:52:57.484 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2024-10-27 01:55:17.375 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2024-10-27 01:55:17.457 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2024-10-27 01:55:17.470 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 38 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2024-10-27 01:55:17.472 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 3 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/weaponpaints.json
+2024-10-27 01:55:17.473 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/container/game/csgo/addons/counterstrikesharp/configs/admins.json
+2024-10-27 01:55:17.473 +03:00 [WARN] (cssharp:AdminManager) Admin data file not found. Skipping admin data load.
+2024-10-27 01:55:17.474 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2024-10-27 01:55:17.474 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2024-10-27 01:55:17.672 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_SocietyLogs
+2024-10-27 01:55:17.702 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_SocietyLogs
+2024-10-27 01:55:17.710 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2024-10-27 01:55:17.740 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2024-10-27 01:55:17.753 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin
+2024-10-27 01:55:17.792 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin
+2024-10-27 01:55:17.807 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_AdminList
+2024-10-27 01:55:17.808 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_AdminList
+2024-10-27 01:55:17.824 +03:00 [INFO] (cssharp:PluginContext) Loading plugin WeaponPaints
+2024-10-27 01:55:18.575 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin WeaponPaints
+2024-10-27 01:55:18.593 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2024-10-27 01:55:18.598 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2024-10-27 01:59:38.310 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2024-10-27 01:59:38.383 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2024-10-27 01:59:38.391 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 38 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2024-10-27 01:59:38.393 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 3 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/weaponpaints.json
+2024-10-27 01:59:38.393 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/container/game/csgo/addons/counterstrikesharp/configs/admins.json
+2024-10-27 01:59:38.394 +03:00 [WARN] (cssharp:AdminManager) Admin data file not found. Skipping admin data load.
+2024-10-27 01:59:38.394 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2024-10-27 01:59:38.395 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2024-10-27 01:59:38.593 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_SocietyLogs
+2024-10-27 01:59:38.622 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_SocietyLogs
+2024-10-27 01:59:38.628 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2024-10-27 01:59:38.659 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2024-10-27 01:59:38.676 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin
+2024-10-27 01:59:38.707 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin
+2024-10-27 01:59:38.720 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_AdminList
+2024-10-27 01:59:38.720 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_AdminList
+2024-10-27 01:59:38.771 +03:00 [INFO] (cssharp:PluginContext) Loading plugin WeaponPaints
+2024-10-27 01:59:39.385 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin WeaponPaints
+2024-10-27 01:59:39.400 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2024-10-27 01:59:39.404 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2024-10-27 01:59:53.510 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2024-10-27 01:59:53.590 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2024-10-27 01:59:53.598 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 38 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2024-10-27 01:59:53.601 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 3 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/weaponpaints.json
+2024-10-27 01:59:53.601 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/container/game/csgo/addons/counterstrikesharp/configs/admins.json
+2024-10-27 01:59:53.602 +03:00 [WARN] (cssharp:AdminManager) Admin data file not found. Skipping admin data load.
+2024-10-27 01:59:53.602 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2024-10-27 01:59:53.603 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2024-10-27 01:59:53.813 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_SocietyLogs
+2024-10-27 01:59:53.843 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_SocietyLogs
+2024-10-27 01:59:53.851 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2024-10-27 01:59:53.882 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2024-10-27 01:59:53.897 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin
+2024-10-27 01:59:53.931 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin
+2024-10-27 01:59:53.964 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_AdminList
+2024-10-27 01:59:53.965 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_AdminList
+2024-10-27 01:59:53.982 +03:00 [INFO] (cssharp:PluginContext) Loading plugin WeaponPaints
+2024-10-27 01:59:54.668 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin WeaponPaints
+2024-10-27 01:59:54.682 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2024-10-27 01:59:54.688 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2024-10-27 02:00:13.309 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2024-10-27 02:00:13.392 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2024-10-27 02:00:13.400 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 38 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2024-10-27 02:00:13.402 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 3 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/weaponpaints.json
+2024-10-27 02:00:13.403 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/container/game/csgo/addons/counterstrikesharp/configs/admins.json
+2024-10-27 02:00:13.403 +03:00 [WARN] (cssharp:AdminManager) Admin data file not found. Skipping admin data load.
+2024-10-27 02:00:13.403 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2024-10-27 02:00:13.404 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2024-10-27 02:00:13.627 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_SocietyLogs
+2024-10-27 02:00:13.659 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_SocietyLogs
+2024-10-27 02:00:13.667 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2024-10-27 02:00:13.700 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2024-10-27 02:00:13.714 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin
+2024-10-27 02:00:13.746 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin
+2024-10-27 02:00:13.771 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_AdminList
+2024-10-27 02:00:13.772 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_AdminList
+2024-10-27 02:00:13.791 +03:00 [INFO] (cssharp:PluginContext) Loading plugin WeaponPaints
+2024-10-27 02:00:14.466 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin WeaponPaints
+2024-10-27 02:00:14.480 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2024-10-27 02:00:14.485 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2024-10-27 02:00:35.139 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2024-10-27 02:00:35.222 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2024-10-27 02:00:35.231 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 38 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2024-10-27 02:00:35.233 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 3 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/weaponpaints.json
+2024-10-27 02:00:35.233 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/container/game/csgo/addons/counterstrikesharp/configs/admins.json
+2024-10-27 02:00:35.234 +03:00 [WARN] (cssharp:AdminManager) Admin data file not found. Skipping admin data load.
+2024-10-27 02:00:35.234 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2024-10-27 02:00:35.235 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2024-10-27 02:00:35.438 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_SocietyLogs
+2024-10-27 02:00:35.470 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_SocietyLogs
+2024-10-27 02:00:35.477 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2024-10-27 02:00:35.509 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2024-10-27 02:00:35.523 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin
+2024-10-27 02:00:35.565 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin
+2024-10-27 02:00:35.579 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_AdminList
+2024-10-27 02:00:35.580 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_AdminList
+2024-10-27 02:00:35.596 +03:00 [INFO] (cssharp:PluginContext) Loading plugin WeaponPaints
+2024-10-27 02:00:36.206 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin WeaponPaints
+2024-10-27 02:00:36.272 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2024-10-27 02:00:36.278 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2024-10-27 02:03:14.524 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2024-10-27 02:03:14.598 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2024-10-27 02:03:14.606 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 38 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2024-10-27 02:03:14.608 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 3 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/weaponpaints.json
+2024-10-27 02:03:14.608 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/container/game/csgo/addons/counterstrikesharp/configs/admins.json
+2024-10-27 02:03:14.609 +03:00 [WARN] (cssharp:AdminManager) Admin data file not found. Skipping admin data load.
+2024-10-27 02:03:14.609 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2024-10-27 02:03:14.610 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2024-10-27 02:03:14.814 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_SocietyLogs
+2024-10-27 02:03:14.843 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_SocietyLogs
+2024-10-27 02:03:14.850 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2024-10-27 02:03:14.880 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2024-10-27 02:03:14.895 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin
+2024-10-27 02:03:14.926 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin
+2024-10-27 02:03:14.938 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_AdminList
+2024-10-27 02:03:14.939 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_AdminList
+2024-10-27 02:03:14.978 +03:00 [INFO] (cssharp:PluginContext) Loading plugin WeaponPaints
+2024-10-27 02:03:15.591 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin WeaponPaints
+2024-10-27 02:03:15.606 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2024-10-27 02:03:15.666 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2024-10-27 02:03:29.297 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2024-10-27 02:03:29.376 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2024-10-27 02:03:29.385 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 38 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2024-10-27 02:03:29.387 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 3 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/weaponpaints.json
+2024-10-27 02:03:29.387 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/container/game/csgo/addons/counterstrikesharp/configs/admins.json
+2024-10-27 02:03:29.388 +03:00 [WARN] (cssharp:AdminManager) Admin data file not found. Skipping admin data load.
+2024-10-27 02:03:29.388 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2024-10-27 02:03:29.389 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2024-10-27 02:03:29.608 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_SocietyLogs
+2024-10-27 02:03:29.637 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_SocietyLogs
+2024-10-27 02:03:29.644 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2024-10-27 02:03:29.675 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2024-10-27 02:03:29.689 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin
+2024-10-27 02:03:29.721 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin
+2024-10-27 02:03:29.734 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_AdminList
+2024-10-27 02:03:29.735 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_AdminList
+2024-10-27 02:03:29.777 +03:00 [INFO] (cssharp:PluginContext) Loading plugin WeaponPaints
+2024-10-27 02:03:30.406 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin WeaponPaints
+2024-10-27 02:03:30.478 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2024-10-27 02:03:30.482 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2024-10-27 02:04:25.485 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2024-10-27 02:04:25.565 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2024-10-27 02:04:25.574 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 38 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2024-10-27 02:04:25.576 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 3 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/weaponpaints.json
+2024-10-27 02:04:25.576 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/container/game/csgo/addons/counterstrikesharp/configs/admins.json
+2024-10-27 02:04:25.577 +03:00 [WARN] (cssharp:AdminManager) Admin data file not found. Skipping admin data load.
+2024-10-27 02:04:25.577 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2024-10-27 02:04:25.578 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2024-10-27 02:04:25.784 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_SocietyLogs
+2024-10-27 02:04:25.814 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_SocietyLogs
+2024-10-27 02:04:25.821 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2024-10-27 02:04:25.853 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2024-10-27 02:04:25.872 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin
+2024-10-27 02:04:25.904 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin
+2024-10-27 02:04:25.916 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_AdminList
+2024-10-27 02:04:25.917 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_AdminList
+2024-10-27 02:04:25.964 +03:00 [INFO] (cssharp:PluginContext) Loading plugin WeaponPaints
+2024-10-27 02:04:26.584 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin WeaponPaints
+2024-10-27 02:04:26.601 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2024-10-27 02:04:26.605 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2024-10-27 02:04:40.494 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2024-10-27 02:04:40.566 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2024-10-27 02:04:40.575 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 38 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2024-10-27 02:04:40.577 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 3 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/weaponpaints.json
+2024-10-27 02:04:40.577 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/container/game/csgo/addons/counterstrikesharp/configs/admins.json
+2024-10-27 02:04:40.578 +03:00 [WARN] (cssharp:AdminManager) Admin data file not found. Skipping admin data load.
+2024-10-27 02:04:40.578 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2024-10-27 02:04:40.579 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2024-10-27 02:04:40.761 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_SocietyLogs
+2024-10-27 02:04:40.791 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_SocietyLogs
+2024-10-27 02:04:40.799 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2024-10-27 02:04:40.829 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2024-10-27 02:04:40.842 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin
+2024-10-27 02:04:40.882 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin
+2024-10-27 02:04:40.896 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_AdminList
+2024-10-27 02:04:40.897 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_AdminList
+2024-10-27 02:04:40.913 +03:00 [INFO] (cssharp:PluginContext) Loading plugin WeaponPaints
+2024-10-27 02:04:41.575 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin WeaponPaints
+2024-10-27 02:04:41.590 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2024-10-27 02:04:41.595 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2024-10-27 02:06:43.824 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2024-10-27 02:06:43.900 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2024-10-27 02:06:43.907 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 38 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2024-10-27 02:06:43.910 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 3 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/weaponpaints.json
+2024-10-27 02:06:43.910 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/container/game/csgo/addons/counterstrikesharp/configs/admins.json
+2024-10-27 02:06:43.911 +03:00 [WARN] (cssharp:AdminManager) Admin data file not found. Skipping admin data load.
+2024-10-27 02:06:43.911 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2024-10-27 02:06:43.911 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2024-10-27 02:06:44.097 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_SocietyLogs
+2024-10-27 02:06:44.126 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_SocietyLogs
+2024-10-27 02:06:44.133 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2024-10-27 02:06:44.165 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2024-10-27 02:06:44.178 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin
+2024-10-27 02:06:44.211 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin
+2024-10-27 02:06:44.223 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_AdminList
+2024-10-27 02:06:44.224 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_AdminList
+2024-10-27 02:06:44.271 +03:00 [INFO] (cssharp:PluginContext) Loading plugin WeaponPaints
+2024-10-27 02:06:44.892 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin WeaponPaints
+2024-10-27 02:06:44.906 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2024-10-27 02:06:44.967 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2024-10-27 02:11:20.116 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2024-10-27 02:11:20.191 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2024-10-27 02:11:20.199 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 38 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2024-10-27 02:11:20.201 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 3 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/weaponpaints.json
+2024-10-27 02:11:20.201 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/container/game/csgo/addons/counterstrikesharp/configs/admins.json
+2024-10-27 02:11:20.202 +03:00 [WARN] (cssharp:AdminManager) Admin data file not found. Skipping admin data load.
+2024-10-27 02:11:20.202 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2024-10-27 02:11:20.203 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2024-10-27 02:11:20.393 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_SocietyLogs
+2024-10-27 02:11:20.423 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_SocietyLogs
+2024-10-27 02:11:20.432 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2024-10-27 02:11:20.467 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2024-10-27 02:11:20.482 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin
+2024-10-27 02:11:20.513 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin
+2024-10-27 02:11:20.526 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_AdminList
+2024-10-27 02:11:20.527 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_AdminList
+2024-10-27 02:11:20.574 +03:00 [INFO] (cssharp:PluginContext) Loading plugin WeaponPaints
+2024-10-27 02:11:21.206 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin WeaponPaints
+2024-10-27 02:11:21.289 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2024-10-27 02:11:21.295 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2024-10-27 02:12:39.644 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2024-10-27 02:12:39.718 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2024-10-27 02:12:39.726 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 38 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2024-10-27 02:12:39.728 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 3 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/weaponpaints.json
+2024-10-27 02:12:39.729 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/container/game/csgo/addons/counterstrikesharp/configs/admins.json
+2024-10-27 02:12:39.730 +03:00 [WARN] (cssharp:AdminManager) Admin data file not found. Skipping admin data load.
+2024-10-27 02:12:39.730 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2024-10-27 02:12:39.731 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2024-10-27 02:12:39.931 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_SocietyLogs
+2024-10-27 02:12:39.960 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_SocietyLogs
+2024-10-27 02:12:39.966 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2024-10-27 02:12:39.996 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2024-10-27 02:12:40.010 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin
+2024-10-27 02:12:40.042 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin
+2024-10-27 02:12:40.069 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_AdminList
+2024-10-27 02:12:40.070 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_AdminList
+2024-10-27 02:12:40.087 +03:00 [INFO] (cssharp:PluginContext) Loading plugin WeaponPaints
+2024-10-27 02:12:40.701 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin WeaponPaints
+2024-10-27 02:12:40.772 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2024-10-27 02:12:40.776 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2024-10-27 02:55:50.997 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2024-10-27 02:55:51.074 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2024-10-27 02:55:51.081 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 38 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2024-10-27 02:55:51.083 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 3 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/weaponpaints.json
+2024-10-27 02:55:51.083 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/container/game/csgo/addons/counterstrikesharp/configs/admins.json
+2024-10-27 02:55:51.084 +03:00 [WARN] (cssharp:AdminManager) Admin data file not found. Skipping admin data load.
+2024-10-27 02:55:51.084 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2024-10-27 02:55:51.085 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2024-10-27 02:55:51.268 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_SocietyLogs
+2024-10-27 02:55:51.296 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_SocietyLogs
+2024-10-27 02:55:51.302 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2024-10-27 02:55:51.332 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2024-10-27 02:55:51.345 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin
+2024-10-27 02:55:51.384 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin
+2024-10-27 02:55:51.396 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_AdminList
+2024-10-27 02:55:51.397 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_AdminList
+2024-10-27 02:55:51.414 +03:00 [INFO] (cssharp:PluginContext) Loading plugin WeaponPaints
+2024-10-27 02:55:52.012 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin WeaponPaints
+2024-10-27 02:55:52.075 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2024-10-27 02:55:52.080 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2024-10-27 03:00:09.701 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2024-10-27 03:00:09.773 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2024-10-27 03:00:09.781 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 38 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2024-10-27 03:00:09.783 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 3 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/weaponpaints.json
+2024-10-27 03:00:09.783 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/container/game/csgo/addons/counterstrikesharp/configs/admins.json
+2024-10-27 03:00:09.784 +03:00 [WARN] (cssharp:AdminManager) Admin data file not found. Skipping admin data load.
+2024-10-27 03:00:09.784 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2024-10-27 03:00:09.785 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2024-10-27 03:00:09.990 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_SocietyLogs
+2024-10-27 03:00:10.018 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_SocietyLogs
+2024-10-27 03:00:10.027 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2024-10-27 03:00:10.065 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2024-10-27 03:00:10.079 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin
+2024-10-27 03:00:10.109 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin
+2024-10-27 03:00:10.122 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_AdminList
+2024-10-27 03:00:10.123 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_AdminList
+2024-10-27 03:00:10.173 +03:00 [INFO] (cssharp:PluginContext) Loading plugin WeaponPaints
+2024-10-27 03:00:10.793 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin WeaponPaints
+2024-10-27 03:00:10.875 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2024-10-27 03:00:10.880 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2024-10-27 03:02:48.519 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2024-10-27 03:02:48.607 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2024-10-27 03:02:48.614 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 38 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2024-10-27 03:02:48.616 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 3 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/weaponpaints.json
+2024-10-27 03:02:48.617 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/container/game/csgo/addons/counterstrikesharp/configs/admins.json
+2024-10-27 03:02:48.617 +03:00 [WARN] (cssharp:AdminManager) Admin data file not found. Skipping admin data load.
+2024-10-27 03:02:48.617 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2024-10-27 03:02:48.618 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2024-10-27 03:02:48.804 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_SocietyLogs
+2024-10-27 03:02:48.832 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_SocietyLogs
+2024-10-27 03:02:48.838 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2024-10-27 03:02:48.869 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2024-10-27 03:02:48.882 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin
+2024-10-27 03:02:48.912 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin
+2024-10-27 03:02:48.924 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_AdminList
+2024-10-27 03:02:48.925 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_AdminList
+2024-10-27 03:02:48.967 +03:00 [INFO] (cssharp:PluginContext) Loading plugin WeaponPaints
+2024-10-27 03:02:49.590 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin WeaponPaints
+2024-10-27 03:02:49.605 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2024-10-27 03:02:49.609 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2024-10-27 03:03:03.057 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2024-10-27 03:03:03.129 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2024-10-27 03:03:03.137 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 38 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2024-10-27 03:03:03.139 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 3 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/weaponpaints.json
+2024-10-27 03:03:03.139 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/container/game/csgo/addons/counterstrikesharp/configs/admins.json
+2024-10-27 03:03:03.140 +03:00 [WARN] (cssharp:AdminManager) Admin data file not found. Skipping admin data load.
+2024-10-27 03:03:03.141 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2024-10-27 03:03:03.141 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2024-10-27 03:03:03.332 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_SocietyLogs
+2024-10-27 03:03:03.360 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_SocietyLogs
+2024-10-27 03:03:03.367 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2024-10-27 03:03:03.397 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2024-10-27 03:03:03.410 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin
+2024-10-27 03:03:03.440 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin
+2024-10-27 03:03:03.472 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_AdminList
+2024-10-27 03:03:03.473 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_AdminList
+2024-10-27 03:03:03.487 +03:00 [INFO] (cssharp:PluginContext) Loading plugin WeaponPaints
+2024-10-27 03:03:04.093 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin WeaponPaints
+2024-10-27 03:03:04.178 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2024-10-27 03:03:04.182 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2024-10-27 03:03:25.176 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2024-10-27 03:03:25.250 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2024-10-27 03:03:25.258 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 38 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2024-10-27 03:03:25.264 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 3 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/weaponpaints.json
+2024-10-27 03:03:25.264 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/container/game/csgo/addons/counterstrikesharp/configs/admins.json
+2024-10-27 03:03:25.265 +03:00 [WARN] (cssharp:AdminManager) Admin data file not found. Skipping admin data load.
+2024-10-27 03:03:25.265 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2024-10-27 03:03:25.266 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2024-10-27 03:03:25.465 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_SocietyLogs
+2024-10-27 03:03:25.493 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_SocietyLogs
+2024-10-27 03:03:25.500 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2024-10-27 03:03:25.530 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2024-10-27 03:03:25.543 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin
+2024-10-27 03:03:25.582 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin
+2024-10-27 03:03:25.594 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_AdminList
+2024-10-27 03:03:25.594 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_AdminList
+2024-10-27 03:03:25.609 +03:00 [INFO] (cssharp:PluginContext) Loading plugin WeaponPaints
+2024-10-27 03:03:26.277 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin WeaponPaints
+2024-10-27 03:03:26.292 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2024-10-27 03:03:26.296 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2024-10-27 03:04:07.714 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2024-10-27 03:04:07.789 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2024-10-27 03:04:07.797 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 38 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2024-10-27 03:04:07.799 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 3 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/weaponpaints.json
+2024-10-27 03:04:07.799 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/container/game/csgo/addons/counterstrikesharp/configs/admins.json
+2024-10-27 03:04:07.800 +03:00 [WARN] (cssharp:AdminManager) Admin data file not found. Skipping admin data load.
+2024-10-27 03:04:07.800 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2024-10-27 03:04:07.801 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2024-10-27 03:04:08.001 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_SocietyLogs
+2024-10-27 03:04:08.033 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_SocietyLogs
+2024-10-27 03:04:08.039 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2024-10-27 03:04:08.073 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2024-10-27 03:04:08.086 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin
+2024-10-27 03:04:08.116 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin
+2024-10-27 03:04:08.128 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_AdminList
+2024-10-27 03:04:08.129 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_AdminList
+2024-10-27 03:04:08.171 +03:00 [INFO] (cssharp:PluginContext) Loading plugin WeaponPaints
+2024-10-27 03:04:08.804 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin WeaponPaints
+2024-10-27 03:04:08.867 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2024-10-27 03:04:08.871 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2024-10-27 03:07:45.433 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2024-10-27 03:07:45.506 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2024-10-27 03:07:45.513 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 38 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2024-10-27 03:07:45.515 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 3 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/weaponpaints.json
+2024-10-27 03:07:45.515 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/container/game/csgo/addons/counterstrikesharp/configs/admins.json
+2024-10-27 03:07:45.516 +03:00 [WARN] (cssharp:AdminManager) Admin data file not found. Skipping admin data load.
+2024-10-27 03:07:45.516 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2024-10-27 03:07:45.517 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2024-10-27 03:07:45.721 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_SocietyLogs
+2024-10-27 03:07:45.750 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_SocietyLogs
+2024-10-27 03:07:45.759 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2024-10-27 03:07:45.790 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2024-10-27 03:07:45.803 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin
+2024-10-27 03:07:45.832 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin
+2024-10-27 03:07:45.865 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_AdminList
+2024-10-27 03:07:45.866 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_AdminList
+2024-10-27 03:07:45.881 +03:00 [INFO] (cssharp:PluginContext) Loading plugin WeaponPaints
+2024-10-27 03:07:46.501 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin WeaponPaints
+2024-10-27 03:07:46.568 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2024-10-27 03:07:46.572 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2024-10-27 03:10:48.838 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2024-10-27 03:10:48.911 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2024-10-27 03:10:48.919 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 38 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2024-10-27 03:10:48.922 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 3 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/weaponpaints.json
+2024-10-27 03:10:48.922 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/container/game/csgo/addons/counterstrikesharp/configs/admins.json
+2024-10-27 03:10:48.923 +03:00 [WARN] (cssharp:AdminManager) Admin data file not found. Skipping admin data load.
+2024-10-27 03:10:48.923 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2024-10-27 03:10:48.924 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2024-10-27 03:10:49.104 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_SocietyLogs
+2024-10-27 03:10:49.132 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_SocietyLogs
+2024-10-27 03:10:49.138 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2024-10-27 03:10:49.168 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2024-10-27 03:10:49.181 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin
+2024-10-27 03:10:49.213 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin
+2024-10-27 03:10:49.232 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_AdminList
+2024-10-27 03:10:49.233 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_AdminList
+2024-10-27 03:10:49.284 +03:00 [INFO] (cssharp:PluginContext) Loading plugin WeaponPaints
+2024-10-27 03:10:49.891 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin WeaponPaints
+2024-10-27 03:10:49.905 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2024-10-27 03:10:49.909 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2024-10-27 03:11:04.249 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2024-10-27 03:11:04.321 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2024-10-27 03:11:04.328 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 38 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2024-10-27 03:11:04.330 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 3 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/weaponpaints.json
+2024-10-27 03:11:04.331 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/container/game/csgo/addons/counterstrikesharp/configs/admins.json
+2024-10-27 03:11:04.331 +03:00 [WARN] (cssharp:AdminManager) Admin data file not found. Skipping admin data load.
+2024-10-27 03:11:04.331 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2024-10-27 03:11:04.332 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2024-10-27 03:11:04.532 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_SocietyLogs
+2024-10-27 03:11:04.560 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_SocietyLogs
+2024-10-27 03:11:04.566 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2024-10-27 03:11:04.596 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2024-10-27 03:11:04.609 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin
+2024-10-27 03:11:04.639 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin
+2024-10-27 03:11:04.664 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_AdminList
+2024-10-27 03:11:04.664 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_AdminList
+2024-10-27 03:11:04.679 +03:00 [INFO] (cssharp:PluginContext) Loading plugin WeaponPaints
+2024-10-27 03:11:05.289 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin WeaponPaints
+2024-10-27 03:11:05.303 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2024-10-27 03:11:05.367 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2024-10-27 03:12:45.113 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2024-10-27 03:12:45.192 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2024-10-27 03:12:45.199 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 38 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2024-10-27 03:12:45.201 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 3 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/weaponpaints.json
+2024-10-27 03:12:45.202 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/container/game/csgo/addons/counterstrikesharp/configs/admins.json
+2024-10-27 03:12:45.203 +03:00 [WARN] (cssharp:AdminManager) Admin data file not found. Skipping admin data load.
+2024-10-27 03:12:45.203 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2024-10-27 03:12:45.203 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2024-10-27 03:12:45.405 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_SocietyLogs
+2024-10-27 03:12:45.433 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_SocietyLogs
+2024-10-27 03:12:45.440 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2024-10-27 03:12:45.469 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2024-10-27 03:12:45.482 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin
+2024-10-27 03:12:45.512 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin
+2024-10-27 03:12:45.525 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_AdminList
+2024-10-27 03:12:45.525 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_AdminList
+2024-10-27 03:12:45.568 +03:00 [INFO] (cssharp:PluginContext) Loading plugin WeaponPaints
+2024-10-27 03:12:46.181 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin WeaponPaints
+2024-10-27 03:12:46.195 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2024-10-27 03:12:46.199 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2024-10-27 11:21:47.976 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2024-10-27 11:21:48.053 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2024-10-27 11:21:48.061 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 38 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2024-10-27 11:21:48.063 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 3 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/weaponpaints.json
+2024-10-27 11:21:48.063 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/container/game/csgo/addons/counterstrikesharp/configs/admins.json
+2024-10-27 11:21:48.064 +03:00 [WARN] (cssharp:AdminManager) Admin data file not found. Skipping admin data load.
+2024-10-27 11:21:48.064 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2024-10-27 11:21:48.065 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2024-10-27 11:21:48.287 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_SocietyLogs
+2024-10-27 11:21:48.318 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_SocietyLogs
+2024-10-27 11:21:48.326 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2024-10-27 11:21:48.360 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2024-10-27 11:21:48.374 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin
+2024-10-27 11:21:48.407 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin
+2024-10-27 11:21:48.421 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_AdminList
+2024-10-27 11:21:48.421 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_AdminList
+2024-10-27 11:21:48.470 +03:00 [INFO] (cssharp:PluginContext) Loading plugin WeaponPaints
+2024-10-27 11:21:49.172 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin WeaponPaints
+2024-10-27 11:21:49.189 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2024-10-27 11:21:49.194 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2024-10-27 12:55:11.349 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2024-10-27 12:55:11.429 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2024-10-27 12:55:11.438 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 38 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2024-10-27 12:55:11.440 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 3 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/weaponpaints.json
+2024-10-27 12:55:11.440 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/container/game/csgo/addons/counterstrikesharp/configs/admins.json
+2024-10-27 12:55:11.441 +03:00 [WARN] (cssharp:AdminManager) Admin data file not found. Skipping admin data load.
+2024-10-27 12:55:11.441 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2024-10-27 12:55:11.442 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2024-10-27 12:55:11.661 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_SocietyLogs
+2024-10-27 12:55:11.693 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_SocietyLogs
+2024-10-27 12:55:11.700 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2024-10-27 12:55:11.731 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2024-10-27 12:55:11.746 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin
+2024-10-27 12:55:11.790 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin
+2024-10-27 12:55:11.805 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_AdminList
+2024-10-27 12:55:11.806 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_AdminList
+2024-10-27 12:55:11.823 +03:00 [INFO] (cssharp:PluginContext) Loading plugin WeaponPaints
+2024-10-27 12:55:12.284 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin WeaponPaints
+2024-10-27 12:55:12.302 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2024-10-27 12:55:12.307 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2024-10-27 12:56:08.419 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2024-10-27 12:56:08.496 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2024-10-27 12:56:08.504 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 38 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2024-10-27 12:56:08.506 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 3 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/weaponpaints.json
+2024-10-27 12:56:08.506 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/container/game/csgo/addons/counterstrikesharp/configs/admins.json
+2024-10-27 12:56:08.507 +03:00 [WARN] (cssharp:AdminManager) Admin data file not found. Skipping admin data load.
+2024-10-27 12:56:08.507 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2024-10-27 12:56:08.508 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2024-10-27 12:56:08.703 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_SocietyLogs
+2024-10-27 12:56:08.732 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_SocietyLogs
+2024-10-27 12:56:08.738 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2024-10-27 12:56:08.770 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2024-10-27 12:56:08.784 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin
+2024-10-27 12:56:08.815 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin
+2024-10-27 12:56:08.827 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_AdminList
+2024-10-27 12:56:08.828 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_AdminList
+2024-10-27 12:56:08.871 +03:00 [INFO] (cssharp:PluginContext) Loading plugin WeaponPaints
+2024-10-27 12:56:09.277 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin WeaponPaints
+2024-10-27 12:56:09.293 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2024-10-27 12:56:09.297 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2024-10-27 12:56:37.624 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2024-10-27 12:56:37.700 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2024-10-27 12:56:37.708 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 38 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2024-10-27 12:56:37.710 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 3 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/weaponpaints.json
+2024-10-27 12:56:37.710 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/container/game/csgo/addons/counterstrikesharp/configs/admins.json
+2024-10-27 12:56:37.711 +03:00 [WARN] (cssharp:AdminManager) Admin data file not found. Skipping admin data load.
+2024-10-27 12:56:37.711 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2024-10-27 12:56:37.711 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2024-10-27 12:56:37.910 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_SocietyLogs
+2024-10-27 12:56:37.940 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_SocietyLogs
+2024-10-27 12:56:37.948 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2024-10-27 12:56:37.980 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2024-10-27 12:56:37.997 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin
+2024-10-27 12:56:38.029 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin
+2024-10-27 12:56:38.069 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_AdminList
+2024-10-27 12:56:38.070 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_AdminList
+2024-10-27 12:56:38.085 +03:00 [INFO] (cssharp:PluginContext) Loading plugin WeaponPaints
+2024-10-27 12:56:38.494 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin WeaponPaints
+2024-10-27 12:56:38.507 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2024-10-27 12:56:38.564 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2024-10-27 12:59:18.970 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2024-10-27 12:59:19.050 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2024-10-27 12:59:19.058 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 38 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2024-10-27 12:59:19.064 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 3 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/weaponpaints.json
+2024-10-27 12:59:19.064 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/container/game/csgo/addons/counterstrikesharp/configs/admins.json
+2024-10-27 12:59:19.065 +03:00 [WARN] (cssharp:AdminManager) Admin data file not found. Skipping admin data load.
+2024-10-27 12:59:19.066 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2024-10-27 12:59:19.066 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2024-10-27 12:59:19.272 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_SocietyLogs
+2024-10-27 12:59:19.301 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_SocietyLogs
+2024-10-27 12:59:19.308 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2024-10-27 12:59:19.339 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2024-10-27 12:59:19.352 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin
+2024-10-27 12:59:19.391 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin
+2024-10-27 12:59:19.407 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_AdminList
+2024-10-27 12:59:19.409 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_AdminList
+2024-10-27 12:59:19.466 +03:00 [INFO] (cssharp:PluginContext) Loading plugin WeaponPaints
+2024-10-27 12:59:20.088 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin WeaponPaints
+2024-10-27 12:59:20.173 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2024-10-27 12:59:20.178 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2024-10-27 13:10:08.310 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2024-10-27 13:10:08.402 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2024-10-27 13:10:08.411 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 38 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2024-10-27 13:10:08.414 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 3 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/weaponpaints.json
+2024-10-27 13:10:08.414 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/container/game/csgo/addons/counterstrikesharp/configs/admins.json
+2024-10-27 13:10:08.416 +03:00 [WARN] (cssharp:AdminManager) Admin data file not found. Skipping admin data load.
+2024-10-27 13:10:08.416 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2024-10-27 13:10:08.417 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2024-10-27 13:10:08.654 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_SocietyLogs
+2024-10-27 13:10:08.690 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_SocietyLogs
+2024-10-27 13:10:08.699 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2024-10-27 13:10:08.735 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2024-10-27 13:10:08.753 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin
+2024-10-27 13:10:08.800 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin
+2024-10-27 13:10:08.816 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_AdminList
+2024-10-27 13:10:08.818 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_AdminList
+2024-10-27 13:10:08.873 +03:00 [INFO] (cssharp:PluginContext) Loading plugin WeaponPaints
+2024-10-27 13:10:09.580 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin WeaponPaints
+2024-10-27 13:10:09.599 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2024-10-27 13:10:09.604 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2024-10-27 14:24:09.381 +03:00 [EROR] (cssharp:Core) Error invoking callback
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.Collections.Generic.KeyNotFoundException: The given key 'CounterTerrorist' was not present in the dictionary.
+   at System.Collections.Concurrent.ConcurrentDictionary`2.ThrowKeyNotFoundException(TKey key)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.get_Item(TKey key)
+   at WeaponPaints.WeaponPaints.GivePlayerWeaponSkin(CCSPlayerController player, CBasePlayerWeapon weapon) in /home/runner/work/cs2-WeaponPaints/cs2-WeaponPaints/WeaponAction.cs:line 23
+   at WeaponPaints.WeaponPaints.GiveOnItemPickup(CCSPlayerController player) in /home/runner/work/cs2-WeaponPaints/cs2-WeaponPaints/WeaponAction.cs:line 555
+   at WeaponPaints.WeaponPaints.OnItemPickup(EventItemPickup event, GameEventInfo _) in /home/runner/work/cs2-WeaponPaints/cs2-WeaponPaints/Events.cs:line 296
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodBaseInvoker.InvokeDirectByRefWithFewArgs(Object obj, Span`1 copyOfArgs, BindingFlags invokeAttr)
+   --- End of inner exception stack trace ---
+   at System.Reflection.MethodBaseInvoker.InvokeDirectByRefWithFewArgs(Object obj, Span`1 copyOfArgs, BindingFlags invokeAttr)
+   at System.Reflection.MethodBaseInvoker.InvokeWithFewArgs(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at CounterStrikeSharp.API.Core.FunctionReference.<CreateWrappedCallback>b__18_0(fxScriptContext* context) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/FunctionReference.cs:line 100
+2024-10-27 14:24:09.409 +03:00 [EROR] (cssharp:Core) Error invoking callback
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.Collections.Generic.KeyNotFoundException: The given key 'CounterTerrorist' was not present in the dictionary.
+   at System.Collections.Concurrent.ConcurrentDictionary`2.ThrowKeyNotFoundException(TKey key)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.get_Item(TKey key)
+   at WeaponPaints.WeaponPaints.GivePlayerWeaponSkin(CCSPlayerController player, CBasePlayerWeapon weapon) in /home/runner/work/cs2-WeaponPaints/cs2-WeaponPaints/WeaponAction.cs:line 23
+   at WeaponPaints.WeaponPaints.GiveOnItemPickup(CCSPlayerController player) in /home/runner/work/cs2-WeaponPaints/cs2-WeaponPaints/WeaponAction.cs:line 555
+   at WeaponPaints.WeaponPaints.OnItemPickup(EventItemPickup event, GameEventInfo _) in /home/runner/work/cs2-WeaponPaints/cs2-WeaponPaints/Events.cs:line 296
+   at InvokeStub_GameEventHandler`1.Invoke(Object, Span`1)
+   at System.Reflection.MethodBaseInvoker.InvokeWithFewArgs(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   --- End of inner exception stack trace ---
+   at System.Reflection.MethodBaseInvoker.InvokeWithFewArgs(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at CounterStrikeSharp.API.Core.FunctionReference.<CreateWrappedCallback>b__18_0(fxScriptContext* context) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/FunctionReference.cs:line 100
+2024-10-27 16:36:18.325 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2024-10-27 16:36:18.409 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2024-10-27 16:36:18.418 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 38 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2024-10-27 16:36:18.421 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 3 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/weaponpaints.json
+2024-10-27 16:36:18.421 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/container/game/csgo/addons/counterstrikesharp/configs/admins.json
+2024-10-27 16:36:18.422 +03:00 [WARN] (cssharp:AdminManager) Admin data file not found. Skipping admin data load.
+2024-10-27 16:36:18.422 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2024-10-27 16:36:18.423 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2024-10-27 16:36:18.658 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_SocietyLogs
+2024-10-27 16:36:18.691 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_SocietyLogs
+2024-10-27 16:36:18.698 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2024-10-27 16:36:18.731 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2024-10-27 16:36:18.748 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin
+2024-10-27 16:36:18.799 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin
+2024-10-27 16:36:18.814 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_AdminList
+2024-10-27 16:36:18.815 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_AdminList
+2024-10-27 16:36:18.868 +03:00 [INFO] (cssharp:PluginContext) Loading plugin WeaponPaints
+2024-10-27 16:36:19.501 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin WeaponPaints
+2024-10-27 16:36:19.572 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2024-10-27 16:36:19.577 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2024-10-27 20:48:45.079 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2024-10-27 20:48:45.166 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2024-10-27 20:48:45.176 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 38 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2024-10-27 20:48:45.178 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 3 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/weaponpaints.json
+2024-10-27 20:48:45.178 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/container/game/csgo/addons/counterstrikesharp/configs/admins.json
+2024-10-27 20:48:45.180 +03:00 [WARN] (cssharp:AdminManager) Admin data file not found. Skipping admin data load.
+2024-10-27 20:48:45.180 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2024-10-27 20:48:45.181 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2024-10-27 20:48:45.418 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_SocietyLogs
+2024-10-27 20:48:45.451 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_SocietyLogs
+2024-10-27 20:48:45.460 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2024-10-27 20:48:45.494 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2024-10-27 20:48:45.510 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin
+2024-10-27 20:48:45.545 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin
+2024-10-27 20:48:45.576 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_AdminList
+2024-10-27 20:48:45.577 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_AdminList
+2024-10-27 20:48:45.596 +03:00 [INFO] (cssharp:PluginContext) Loading plugin WeaponPaints
+2024-10-27 20:48:46.293 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin WeaponPaints
+2024-10-27 20:48:46.313 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2024-10-27 20:48:46.366 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2024-10-27 20:53:28.213 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2024-10-27 20:53:28.299 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2024-10-27 20:53:28.307 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 38 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2024-10-27 20:53:28.309 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 3 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/weaponpaints.json
+2024-10-27 20:53:28.310 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/container/game/csgo/addons/counterstrikesharp/configs/admins.json
+2024-10-27 20:53:28.311 +03:00 [WARN] (cssharp:AdminManager) Admin data file not found. Skipping admin data load.
+2024-10-27 20:53:28.311 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2024-10-27 20:53:28.311 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2024-10-27 20:53:28.532 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_SocietyLogs
+2024-10-27 20:53:28.563 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_SocietyLogs
+2024-10-27 20:53:28.570 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2024-10-27 20:53:28.605 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2024-10-27 20:53:28.620 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin
+2024-10-27 20:53:28.654 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin
+2024-10-27 20:53:28.679 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_AdminList
+2024-10-27 20:53:28.680 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_AdminList
+2024-10-27 20:53:28.698 +03:00 [INFO] (cssharp:PluginContext) Loading plugin WeaponPaints
+2024-10-27 20:53:29.481 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin WeaponPaints
+2024-10-27 20:53:29.501 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2024-10-27 20:53:29.507 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2024-10-27 20:55:53.311 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2024-10-27 20:55:53.408 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2024-10-27 20:55:53.418 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 38 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2024-10-27 20:55:53.421 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 3 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/weaponpaints.json
+2024-10-27 20:55:53.421 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/container/game/csgo/addons/counterstrikesharp/configs/admins.json
+2024-10-27 20:55:53.422 +03:00 [WARN] (cssharp:AdminManager) Admin data file not found. Skipping admin data load.
+2024-10-27 20:55:53.422 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2024-10-27 20:55:53.423 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2024-10-27 20:55:53.665 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_SocietyLogs
+2024-10-27 20:55:53.700 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_SocietyLogs
+2024-10-27 20:55:53.708 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2024-10-27 20:55:53.742 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2024-10-27 20:55:53.766 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin
+2024-10-27 20:55:53.800 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin
+2024-10-27 20:55:53.816 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_AdminList
+2024-10-27 20:55:53.817 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_AdminList
+2024-10-27 20:55:53.869 +03:00 [INFO] (cssharp:PluginContext) Loading plugin WeaponPaints
+2024-10-27 20:55:54.594 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin WeaponPaints
+2024-10-27 20:55:54.612 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2024-10-27 20:55:54.666 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2024-10-27 21:01:58.633 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2024-10-27 21:01:58.722 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2024-10-27 21:01:58.731 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 38 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2024-10-27 21:01:58.734 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 3 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/weaponpaints.json
+2024-10-27 21:01:58.734 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/container/game/csgo/addons/counterstrikesharp/configs/admins.json
+2024-10-27 21:01:58.735 +03:00 [WARN] (cssharp:AdminManager) Admin data file not found. Skipping admin data load.
+2024-10-27 21:01:58.735 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2024-10-27 21:01:58.736 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2024-10-27 21:01:58.976 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_SocietyLogs
+2024-10-27 21:01:59.015 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_SocietyLogs
+2024-10-27 21:01:59.025 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2024-10-27 21:01:59.065 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2024-10-27 21:01:59.085 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin
+2024-10-27 21:01:59.125 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin
+2024-10-27 21:01:59.169 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_AdminList
+2024-10-27 21:01:59.170 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_AdminList
+2024-10-27 21:01:59.187 +03:00 [INFO] (cssharp:PluginContext) Loading plugin WeaponPaints
+2024-10-27 21:01:59.893 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin WeaponPaints
+2024-10-27 21:01:59.911 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2024-10-27 21:01:59.964 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2024-10-27 21:02:56.715 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2024-10-27 21:02:56.796 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2024-10-27 21:02:56.805 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 38 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2024-10-27 21:02:56.807 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 3 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/weaponpaints.json
+2024-10-27 21:02:56.807 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/container/game/csgo/addons/counterstrikesharp/configs/admins.json
+2024-10-27 21:02:56.808 +03:00 [WARN] (cssharp:AdminManager) Admin data file not found. Skipping admin data load.
+2024-10-27 21:02:56.808 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2024-10-27 21:02:56.809 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2024-10-27 21:02:57.029 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_SocietyLogs
+2024-10-27 21:02:57.059 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_SocietyLogs
+2024-10-27 21:02:57.067 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2024-10-27 21:02:57.100 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2024-10-27 21:02:57.115 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin
+2024-10-27 21:02:57.164 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin
+2024-10-27 21:02:57.180 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_AdminList
+2024-10-27 21:02:57.181 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_AdminList
+2024-10-27 21:02:57.199 +03:00 [INFO] (cssharp:PluginContext) Loading plugin WeaponPaints
+2024-10-27 21:02:57.899 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin WeaponPaints
+2024-10-27 21:02:57.966 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2024-10-27 21:02:57.971 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2024-10-27 22:56:27.073 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2024-10-27 22:56:27.150 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2024-10-27 22:56:27.158 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 38 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2024-10-27 22:56:27.160 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 3 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/weaponpaints.json
+2024-10-27 22:56:27.160 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/container/game/csgo/addons/counterstrikesharp/configs/admins.json
+2024-10-27 22:56:27.161 +03:00 [WARN] (cssharp:AdminManager) Admin data file not found. Skipping admin data load.
+2024-10-27 22:56:27.161 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2024-10-27 22:56:27.162 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2024-10-27 22:56:27.353 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_SocietyLogs
+2024-10-27 22:56:27.382 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_SocietyLogs
+2024-10-27 22:56:27.389 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2024-10-27 22:56:27.420 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2024-10-27 22:56:27.434 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin
+2024-10-27 22:56:27.474 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin
+2024-10-27 22:56:27.487 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_AdminList
+2024-10-27 22:56:27.487 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_AdminList
+2024-10-27 22:56:27.502 +03:00 [INFO] (cssharp:PluginContext) Loading plugin WeaponPaints
+2024-10-27 22:56:28.172 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin WeaponPaints
+2024-10-27 22:56:28.189 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2024-10-27 22:56:28.195 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]
+2024-10-27 22:57:24.304 +03:00 [INFO] (cssharp:Core) CounterStrikeSharp is starting up...
+2024-10-27 22:57:24.380 +03:00 [INFO] (cssharp:CoreConfig) Successfully loaded core configuration
+2024-10-27 22:57:24.388 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 38 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/gamedata.json
+2024-10-27 22:57:24.390 +03:00 [INFO] (cssharp:GameDataProvider) Successfully loaded 3 game data entries from /home/container/game/csgo/addons/counterstrikesharp/gamedata/weaponpaints.json
+2024-10-27 22:57:24.391 +03:00 [INFO] (cssharp:Core) Loading Admins from /home/container/game/csgo/addons/counterstrikesharp/configs/admins.json
+2024-10-27 22:57:24.392 +03:00 [WARN] (cssharp:AdminManager) Admin data file not found. Skipping admin data load.
+2024-10-27 22:57:24.392 +03:00 [INFO] (cssharp:Core) Loading Admin Groups from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_groups.json
+2024-10-27 22:57:24.393 +03:00 [INFO] (cssharp:Core) Loading Admin Command Overrides from /home/container/game/csgo/addons/counterstrikesharp/configs/admin_overrides.json
+2024-10-27 22:57:24.585 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_SocietyLogs
+2024-10-27 22:57:24.615 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_SocietyLogs
+2024-10-27 22:57:24.622 +03:00 [INFO] (cssharp:PluginContext) Loading plugin PlayerSettings
+2024-10-27 22:57:24.652 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin PlayerSettings [Core]
+2024-10-27 22:57:24.670 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin
+2024-10-27 22:57:24.701 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin
+2024-10-27 22:57:24.714 +03:00 [INFO] (cssharp:PluginContext) Loading plugin IksAdmin_AdminList
+2024-10-27 22:57:24.715 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin IksAdmin_AdminList
+2024-10-27 22:57:24.766 +03:00 [INFO] (cssharp:PluginContext) Loading plugin WeaponPaints
+2024-10-27 22:57:25.391 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin WeaponPaints
+2024-10-27 22:57:25.407 +03:00 [INFO] (cssharp:PluginContext) Loading plugin MenuManagerCore
+2024-10-27 22:57:25.466 +03:00 [INFO] (cssharp:PluginContext) Finished loading plugin MenuManager [Core]

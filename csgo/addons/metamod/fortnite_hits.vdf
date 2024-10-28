@@ -1,0 +1,5 @@
+"Metamod Plugin"
+{
+	"alias"	"fortnite_hits"
+	"file"	"addons/fortnite_hits/fortnite_hits"
+}

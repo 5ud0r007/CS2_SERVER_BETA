@@ -1,0 +1,252 @@
+2024-10-28 12:13:22.874 +03:00 [EROR] (cssharp:Core) Error invoking callback
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.Collections.Generic.KeyNotFoundException: The given key 'CounterTerrorist' was not present in the dictionary.
+   at System.Collections.Concurrent.ConcurrentDictionary`2.ThrowKeyNotFoundException(TKey key)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.get_Item(TKey key)
+   at WeaponPaints.WeaponPaints.GivePlayerWeaponSkin(CCSPlayerController player, CBasePlayerWeapon weapon) in /home/runner/work/cs2-WeaponPaints/cs2-WeaponPaints/WeaponAction.cs:line 23
+   at WeaponPaints.WeaponPaints.GiveOnItemPickup(CCSPlayerController player) in /home/runner/work/cs2-WeaponPaints/cs2-WeaponPaints/WeaponAction.cs:line 555
+   at WeaponPaints.WeaponPaints.OnItemPickup(EventItemPickup event, GameEventInfo _) in /home/runner/work/cs2-WeaponPaints/cs2-WeaponPaints/Events.cs:line 296
+   at InvokeStub_GameEventHandler`1.Invoke(Object, Span`1)
+   at System.Reflection.MethodBaseInvoker.InvokeWithFewArgs(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   --- End of inner exception stack trace ---
+   at System.Reflection.MethodBaseInvoker.InvokeWithFewArgs(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at CounterStrikeSharp.API.Core.FunctionReference.<CreateWrappedCallback>b__18_0(fxScriptContext* context) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/FunctionReference.cs:line 100
+2024-10-28 12:13:22.903 +03:00 [EROR] (cssharp:Core) Error invoking callback
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.Collections.Generic.KeyNotFoundException: The given key 'CounterTerrorist' was not present in the dictionary.
+   at System.Collections.Concurrent.ConcurrentDictionary`2.ThrowKeyNotFoundException(TKey key)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.get_Item(TKey key)
+   at WeaponPaints.WeaponPaints.GivePlayerWeaponSkin(CCSPlayerController player, CBasePlayerWeapon weapon) in /home/runner/work/cs2-WeaponPaints/cs2-WeaponPaints/WeaponAction.cs:line 23
+   at WeaponPaints.WeaponPaints.GiveOnItemPickup(CCSPlayerController player) in /home/runner/work/cs2-WeaponPaints/cs2-WeaponPaints/WeaponAction.cs:line 555
+   at WeaponPaints.WeaponPaints.OnItemPickup(EventItemPickup event, GameEventInfo _) in /home/runner/work/cs2-WeaponPaints/cs2-WeaponPaints/Events.cs:line 296
+   at InvokeStub_GameEventHandler`1.Invoke(Object, Span`1)
+   at System.Reflection.MethodBaseInvoker.InvokeWithFewArgs(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   --- End of inner exception stack trace ---
+   at System.Reflection.MethodBaseInvoker.InvokeWithFewArgs(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at CounterStrikeSharp.API.Core.FunctionReference.<CreateWrappedCallback>b__18_0(fxScriptContext* context) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/FunctionReference.cs:line 100
+2024-10-28 12:13:37.684 +03:00 [EROR] (cssharp:Core) Error invoking callback
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.Collections.Generic.KeyNotFoundException: The given key 'CounterTerrorist' was not present in the dictionary.
+   at System.Collections.Concurrent.ConcurrentDictionary`2.ThrowKeyNotFoundException(TKey key)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.get_Item(TKey key)
+   at WeaponPaints.WeaponPaints.GivePlayerWeaponSkin(CCSPlayerController player, CBasePlayerWeapon weapon) in /home/runner/work/cs2-WeaponPaints/cs2-WeaponPaints/WeaponAction.cs:line 23
+   at WeaponPaints.WeaponPaints.GiveOnItemPickup(CCSPlayerController player) in /home/runner/work/cs2-WeaponPaints/cs2-WeaponPaints/WeaponAction.cs:line 555
+   at WeaponPaints.WeaponPaints.OnItemPickup(EventItemPickup event, GameEventInfo _) in /home/runner/work/cs2-WeaponPaints/cs2-WeaponPaints/Events.cs:line 296
+   at InvokeStub_GameEventHandler`1.Invoke(Object, Span`1)
+   at System.Reflection.MethodBaseInvoker.InvokeWithFewArgs(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   --- End of inner exception stack trace ---
+   at System.Reflection.MethodBaseInvoker.InvokeWithFewArgs(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at CounterStrikeSharp.API.Core.FunctionReference.<CreateWrappedCallback>b__18_0(fxScriptContext* context) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/FunctionReference.cs:line 100
+2024-10-28 12:13:37.717 +03:00 [EROR] (cssharp:Core) Error invoking callback
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.Collections.Generic.KeyNotFoundException: The given key 'CounterTerrorist' was not present in the dictionary.
+   at System.Collections.Concurrent.ConcurrentDictionary`2.ThrowKeyNotFoundException(TKey key)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.get_Item(TKey key)
+   at WeaponPaints.WeaponPaints.GivePlayerWeaponSkin(CCSPlayerController player, CBasePlayerWeapon weapon) in /home/runner/work/cs2-WeaponPaints/cs2-WeaponPaints/WeaponAction.cs:line 23
+   at WeaponPaints.WeaponPaints.GiveOnItemPickup(CCSPlayerController player) in /home/runner/work/cs2-WeaponPaints/cs2-WeaponPaints/WeaponAction.cs:line 555
+   at WeaponPaints.WeaponPaints.OnItemPickup(EventItemPickup event, GameEventInfo _) in /home/runner/work/cs2-WeaponPaints/cs2-WeaponPaints/Events.cs:line 296
+   at InvokeStub_GameEventHandler`1.Invoke(Object, Span`1)
+   at System.Reflection.MethodBaseInvoker.InvokeWithFewArgs(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   --- End of inner exception stack trace ---
+   at System.Reflection.MethodBaseInvoker.InvokeWithFewArgs(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at CounterStrikeSharp.API.Core.FunctionReference.<CreateWrappedCallback>b__18_0(fxScriptContext* context) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/FunctionReference.cs:line 100
+2024-10-28 12:13:41.075 +03:00 [EROR] (cssharp:Core) Error invoking callback
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.Collections.Generic.KeyNotFoundException: The given key 'CounterTerrorist' was not present in the dictionary.
+   at System.Collections.Concurrent.ConcurrentDictionary`2.ThrowKeyNotFoundException(TKey key)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.get_Item(TKey key)
+   at WeaponPaints.WeaponPaints.GivePlayerWeaponSkin(CCSPlayerController player, CBasePlayerWeapon weapon) in /home/runner/work/cs2-WeaponPaints/cs2-WeaponPaints/WeaponAction.cs:line 23
+   at WeaponPaints.WeaponPaints.GiveOnItemPickup(CCSPlayerController player) in /home/runner/work/cs2-WeaponPaints/cs2-WeaponPaints/WeaponAction.cs:line 555
+   at WeaponPaints.WeaponPaints.OnItemPickup(EventItemPickup event, GameEventInfo _) in /home/runner/work/cs2-WeaponPaints/cs2-WeaponPaints/Events.cs:line 296
+   at InvokeStub_GameEventHandler`1.Invoke(Object, Span`1)
+   at System.Reflection.MethodBaseInvoker.InvokeWithFewArgs(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   --- End of inner exception stack trace ---
+   at System.Reflection.MethodBaseInvoker.InvokeWithFewArgs(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at CounterStrikeSharp.API.Core.FunctionReference.<CreateWrappedCallback>b__18_0(fxScriptContext* context) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/FunctionReference.cs:line 100
+2024-10-28 12:13:41.106 +03:00 [EROR] (cssharp:Core) Error invoking callback
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.Collections.Generic.KeyNotFoundException: The given key 'CounterTerrorist' was not present in the dictionary.
+   at System.Collections.Concurrent.ConcurrentDictionary`2.ThrowKeyNotFoundException(TKey key)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.get_Item(TKey key)
+   at WeaponPaints.WeaponPaints.GivePlayerWeaponSkin(CCSPlayerController player, CBasePlayerWeapon weapon) in /home/runner/work/cs2-WeaponPaints/cs2-WeaponPaints/WeaponAction.cs:line 23
+   at WeaponPaints.WeaponPaints.GiveOnItemPickup(CCSPlayerController player) in /home/runner/work/cs2-WeaponPaints/cs2-WeaponPaints/WeaponAction.cs:line 555
+   at WeaponPaints.WeaponPaints.OnItemPickup(EventItemPickup event, GameEventInfo _) in /home/runner/work/cs2-WeaponPaints/cs2-WeaponPaints/Events.cs:line 296
+   at InvokeStub_GameEventHandler`1.Invoke(Object, Span`1)
+   at System.Reflection.MethodBaseInvoker.InvokeWithFewArgs(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   --- End of inner exception stack trace ---
+   at System.Reflection.MethodBaseInvoker.InvokeWithFewArgs(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at CounterStrikeSharp.API.Core.FunctionReference.<CreateWrappedCallback>b__18_0(fxScriptContext* context) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/FunctionReference.cs:line 100
+2024-10-28 12:13:43.372 +03:00 [EROR] (cssharp:Core) Error invoking callback
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.Collections.Generic.KeyNotFoundException: The given key 'CounterTerrorist' was not present in the dictionary.
+   at System.Collections.Concurrent.ConcurrentDictionary`2.ThrowKeyNotFoundException(TKey key)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.get_Item(TKey key)
+   at WeaponPaints.WeaponPaints.GivePlayerWeaponSkin(CCSPlayerController player, CBasePlayerWeapon weapon) in /home/runner/work/cs2-WeaponPaints/cs2-WeaponPaints/WeaponAction.cs:line 23
+   at WeaponPaints.WeaponPaints.GiveOnItemPickup(CCSPlayerController player) in /home/runner/work/cs2-WeaponPaints/cs2-WeaponPaints/WeaponAction.cs:line 555
+   at WeaponPaints.WeaponPaints.OnItemPickup(EventItemPickup event, GameEventInfo _) in /home/runner/work/cs2-WeaponPaints/cs2-WeaponPaints/Events.cs:line 296
+   at InvokeStub_GameEventHandler`1.Invoke(Object, Span`1)
+   at System.Reflection.MethodBaseInvoker.InvokeWithFewArgs(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   --- End of inner exception stack trace ---
+   at System.Reflection.MethodBaseInvoker.InvokeWithFewArgs(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at CounterStrikeSharp.API.Core.FunctionReference.<CreateWrappedCallback>b__18_0(fxScriptContext* context) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/FunctionReference.cs:line 100
+2024-10-28 12:13:43.403 +03:00 [EROR] (cssharp:Core) Error invoking callback
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.Collections.Generic.KeyNotFoundException: The given key 'CounterTerrorist' was not present in the dictionary.
+   at System.Collections.Concurrent.ConcurrentDictionary`2.ThrowKeyNotFoundException(TKey key)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.get_Item(TKey key)
+   at WeaponPaints.WeaponPaints.GivePlayerWeaponSkin(CCSPlayerController player, CBasePlayerWeapon weapon) in /home/runner/work/cs2-WeaponPaints/cs2-WeaponPaints/WeaponAction.cs:line 23
+   at WeaponPaints.WeaponPaints.GiveOnItemPickup(CCSPlayerController player) in /home/runner/work/cs2-WeaponPaints/cs2-WeaponPaints/WeaponAction.cs:line 555
+   at WeaponPaints.WeaponPaints.OnItemPickup(EventItemPickup event, GameEventInfo _) in /home/runner/work/cs2-WeaponPaints/cs2-WeaponPaints/Events.cs:line 296
+   at InvokeStub_GameEventHandler`1.Invoke(Object, Span`1)
+   at System.Reflection.MethodBaseInvoker.InvokeWithFewArgs(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   --- End of inner exception stack trace ---
+   at System.Reflection.MethodBaseInvoker.InvokeWithFewArgs(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at CounterStrikeSharp.API.Core.FunctionReference.<CreateWrappedCallback>b__18_0(fxScriptContext* context) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/FunctionReference.cs:line 100
+2024-10-28 12:13:45.778 +03:00 [EROR] (cssharp:Core) Error invoking callback
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.Collections.Generic.KeyNotFoundException: The given key 'CounterTerrorist' was not present in the dictionary.
+   at System.Collections.Concurrent.ConcurrentDictionary`2.ThrowKeyNotFoundException(TKey key)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.get_Item(TKey key)
+   at WeaponPaints.WeaponPaints.GivePlayerWeaponSkin(CCSPlayerController player, CBasePlayerWeapon weapon) in /home/runner/work/cs2-WeaponPaints/cs2-WeaponPaints/WeaponAction.cs:line 23
+   at WeaponPaints.WeaponPaints.GiveOnItemPickup(CCSPlayerController player) in /home/runner/work/cs2-WeaponPaints/cs2-WeaponPaints/WeaponAction.cs:line 555
+   at WeaponPaints.WeaponPaints.OnItemPickup(EventItemPickup event, GameEventInfo _) in /home/runner/work/cs2-WeaponPaints/cs2-WeaponPaints/Events.cs:line 296
+   at InvokeStub_GameEventHandler`1.Invoke(Object, Span`1)
+   at System.Reflection.MethodBaseInvoker.InvokeWithFewArgs(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   --- End of inner exception stack trace ---
+   at System.Reflection.MethodBaseInvoker.InvokeWithFewArgs(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at CounterStrikeSharp.API.Core.FunctionReference.<CreateWrappedCallback>b__18_0(fxScriptContext* context) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/FunctionReference.cs:line 100
+2024-10-28 12:13:45.810 +03:00 [EROR] (cssharp:Core) Error invoking callback
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.Collections.Generic.KeyNotFoundException: The given key 'CounterTerrorist' was not present in the dictionary.
+   at System.Collections.Concurrent.ConcurrentDictionary`2.ThrowKeyNotFoundException(TKey key)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.get_Item(TKey key)
+   at WeaponPaints.WeaponPaints.GivePlayerWeaponSkin(CCSPlayerController player, CBasePlayerWeapon weapon) in /home/runner/work/cs2-WeaponPaints/cs2-WeaponPaints/WeaponAction.cs:line 23
+   at WeaponPaints.WeaponPaints.GiveOnItemPickup(CCSPlayerController player) in /home/runner/work/cs2-WeaponPaints/cs2-WeaponPaints/WeaponAction.cs:line 555
+   at WeaponPaints.WeaponPaints.OnItemPickup(EventItemPickup event, GameEventInfo _) in /home/runner/work/cs2-WeaponPaints/cs2-WeaponPaints/Events.cs:line 296
+   at InvokeStub_GameEventHandler`1.Invoke(Object, Span`1)
+   at System.Reflection.MethodBaseInvoker.InvokeWithFewArgs(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   --- End of inner exception stack trace ---
+   at System.Reflection.MethodBaseInvoker.InvokeWithFewArgs(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at CounterStrikeSharp.API.Core.FunctionReference.<CreateWrappedCallback>b__18_0(fxScriptContext* context) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/FunctionReference.cs:line 100
+2024-10-28 12:13:47.575 +03:00 [EROR] (cssharp:Core) Error invoking callback
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.Collections.Generic.KeyNotFoundException: The given key 'CounterTerrorist' was not present in the dictionary.
+   at System.Collections.Concurrent.ConcurrentDictionary`2.ThrowKeyNotFoundException(TKey key)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.get_Item(TKey key)
+   at WeaponPaints.WeaponPaints.GivePlayerWeaponSkin(CCSPlayerController player, CBasePlayerWeapon weapon) in /home/runner/work/cs2-WeaponPaints/cs2-WeaponPaints/WeaponAction.cs:line 23
+   at WeaponPaints.WeaponPaints.GiveOnItemPickup(CCSPlayerController player) in /home/runner/work/cs2-WeaponPaints/cs2-WeaponPaints/WeaponAction.cs:line 555
+   at WeaponPaints.WeaponPaints.OnItemPickup(EventItemPickup event, GameEventInfo _) in /home/runner/work/cs2-WeaponPaints/cs2-WeaponPaints/Events.cs:line 296
+   at InvokeStub_GameEventHandler`1.Invoke(Object, Span`1)
+   at System.Reflection.MethodBaseInvoker.InvokeWithFewArgs(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   --- End of inner exception stack trace ---
+   at System.Reflection.MethodBaseInvoker.InvokeWithFewArgs(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at CounterStrikeSharp.API.Core.FunctionReference.<CreateWrappedCallback>b__18_0(fxScriptContext* context) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/FunctionReference.cs:line 100
+2024-10-28 12:13:47.606 +03:00 [EROR] (cssharp:Core) Error invoking callback
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.Collections.Generic.KeyNotFoundException: The given key 'CounterTerrorist' was not present in the dictionary.
+   at System.Collections.Concurrent.ConcurrentDictionary`2.ThrowKeyNotFoundException(TKey key)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.get_Item(TKey key)
+   at WeaponPaints.WeaponPaints.GivePlayerWeaponSkin(CCSPlayerController player, CBasePlayerWeapon weapon) in /home/runner/work/cs2-WeaponPaints/cs2-WeaponPaints/WeaponAction.cs:line 23
+   at WeaponPaints.WeaponPaints.GiveOnItemPickup(CCSPlayerController player) in /home/runner/work/cs2-WeaponPaints/cs2-WeaponPaints/WeaponAction.cs:line 555
+   at WeaponPaints.WeaponPaints.OnItemPickup(EventItemPickup event, GameEventInfo _) in /home/runner/work/cs2-WeaponPaints/cs2-WeaponPaints/Events.cs:line 296
+   at InvokeStub_GameEventHandler`1.Invoke(Object, Span`1)
+   at System.Reflection.MethodBaseInvoker.InvokeWithFewArgs(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   --- End of inner exception stack trace ---
+   at System.Reflection.MethodBaseInvoker.InvokeWithFewArgs(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at CounterStrikeSharp.API.Core.FunctionReference.<CreateWrappedCallback>b__18_0(fxScriptContext* context) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/FunctionReference.cs:line 100
+2024-10-28 12:13:49.843 +03:00 [EROR] (cssharp:Core) Error invoking callback
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.Collections.Generic.KeyNotFoundException: The given key 'CounterTerrorist' was not present in the dictionary.
+   at System.Collections.Concurrent.ConcurrentDictionary`2.ThrowKeyNotFoundException(TKey key)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.get_Item(TKey key)
+   at WeaponPaints.WeaponPaints.GivePlayerWeaponSkin(CCSPlayerController player, CBasePlayerWeapon weapon) in /home/runner/work/cs2-WeaponPaints/cs2-WeaponPaints/WeaponAction.cs:line 23
+   at WeaponPaints.WeaponPaints.GiveOnItemPickup(CCSPlayerController player) in /home/runner/work/cs2-WeaponPaints/cs2-WeaponPaints/WeaponAction.cs:line 555
+   at WeaponPaints.WeaponPaints.OnItemPickup(EventItemPickup event, GameEventInfo _) in /home/runner/work/cs2-WeaponPaints/cs2-WeaponPaints/Events.cs:line 296
+   at InvokeStub_GameEventHandler`1.Invoke(Object, Span`1)
+   at System.Reflection.MethodBaseInvoker.InvokeWithFewArgs(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   --- End of inner exception stack trace ---
+   at System.Reflection.MethodBaseInvoker.InvokeWithFewArgs(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at CounterStrikeSharp.API.Core.FunctionReference.<CreateWrappedCallback>b__18_0(fxScriptContext* context) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/FunctionReference.cs:line 100
+2024-10-28 12:13:49.872 +03:00 [EROR] (cssharp:Core) Error invoking callback
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.Collections.Generic.KeyNotFoundException: The given key 'CounterTerrorist' was not present in the dictionary.
+   at System.Collections.Concurrent.ConcurrentDictionary`2.ThrowKeyNotFoundException(TKey key)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.get_Item(TKey key)
+   at WeaponPaints.WeaponPaints.GivePlayerWeaponSkin(CCSPlayerController player, CBasePlayerWeapon weapon) in /home/runner/work/cs2-WeaponPaints/cs2-WeaponPaints/WeaponAction.cs:line 23
+   at WeaponPaints.WeaponPaints.GiveOnItemPickup(CCSPlayerController player) in /home/runner/work/cs2-WeaponPaints/cs2-WeaponPaints/WeaponAction.cs:line 555
+   at WeaponPaints.WeaponPaints.OnItemPickup(EventItemPickup event, GameEventInfo _) in /home/runner/work/cs2-WeaponPaints/cs2-WeaponPaints/Events.cs:line 296
+   at InvokeStub_GameEventHandler`1.Invoke(Object, Span`1)
+   at System.Reflection.MethodBaseInvoker.InvokeWithFewArgs(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   --- End of inner exception stack trace ---
+   at System.Reflection.MethodBaseInvoker.InvokeWithFewArgs(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at CounterStrikeSharp.API.Core.FunctionReference.<CreateWrappedCallback>b__18_0(fxScriptContext* context) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/FunctionReference.cs:line 100
+2024-10-28 12:13:54.312 +03:00 [EROR] (cssharp:Core) Error invoking callback
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.Collections.Generic.KeyNotFoundException: The given key 'CounterTerrorist' was not present in the dictionary.
+   at System.Collections.Concurrent.ConcurrentDictionary`2.ThrowKeyNotFoundException(TKey key)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.get_Item(TKey key)
+   at WeaponPaints.WeaponPaints.GivePlayerWeaponSkin(CCSPlayerController player, CBasePlayerWeapon weapon) in /home/runner/work/cs2-WeaponPaints/cs2-WeaponPaints/WeaponAction.cs:line 23
+   at WeaponPaints.WeaponPaints.GiveOnItemPickup(CCSPlayerController player) in /home/runner/work/cs2-WeaponPaints/cs2-WeaponPaints/WeaponAction.cs:line 555
+   at WeaponPaints.WeaponPaints.OnItemPickup(EventItemPickup event, GameEventInfo _) in /home/runner/work/cs2-WeaponPaints/cs2-WeaponPaints/Events.cs:line 296
+   at InvokeStub_GameEventHandler`1.Invoke(Object, Span`1)
+   at System.Reflection.MethodBaseInvoker.InvokeWithFewArgs(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   --- End of inner exception stack trace ---
+   at System.Reflection.MethodBaseInvoker.InvokeWithFewArgs(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at CounterStrikeSharp.API.Core.FunctionReference.<CreateWrappedCallback>b__18_0(fxScriptContext* context) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/FunctionReference.cs:line 100
+2024-10-28 12:13:54.340 +03:00 [EROR] (cssharp:Core) Error invoking callback
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.Collections.Generic.KeyNotFoundException: The given key 'CounterTerrorist' was not present in the dictionary.
+   at System.Collections.Concurrent.ConcurrentDictionary`2.ThrowKeyNotFoundException(TKey key)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.get_Item(TKey key)
+   at WeaponPaints.WeaponPaints.GivePlayerWeaponSkin(CCSPlayerController player, CBasePlayerWeapon weapon) in /home/runner/work/cs2-WeaponPaints/cs2-WeaponPaints/WeaponAction.cs:line 23
+   at WeaponPaints.WeaponPaints.GiveOnItemPickup(CCSPlayerController player) in /home/runner/work/cs2-WeaponPaints/cs2-WeaponPaints/WeaponAction.cs:line 555
+   at WeaponPaints.WeaponPaints.OnItemPickup(EventItemPickup event, GameEventInfo _) in /home/runner/work/cs2-WeaponPaints/cs2-WeaponPaints/Events.cs:line 296
+   at InvokeStub_GameEventHandler`1.Invoke(Object, Span`1)
+   at System.Reflection.MethodBaseInvoker.InvokeWithFewArgs(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   --- End of inner exception stack trace ---
+   at System.Reflection.MethodBaseInvoker.InvokeWithFewArgs(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at CounterStrikeSharp.API.Core.FunctionReference.<CreateWrappedCallback>b__18_0(fxScriptContext* context) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/FunctionReference.cs:line 100
+2024-10-28 12:30:48.840 +03:00 [EROR] (cssharp:Core) Error invoking callback
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.Collections.Generic.KeyNotFoundException: The given key 'CounterTerrorist' was not present in the dictionary.
+   at System.Collections.Concurrent.ConcurrentDictionary`2.ThrowKeyNotFoundException(TKey key)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.get_Item(TKey key)
+   at WeaponPaints.WeaponPaints.GivePlayerWeaponSkin(CCSPlayerController player, CBasePlayerWeapon weapon) in /home/runner/work/cs2-WeaponPaints/cs2-WeaponPaints/WeaponAction.cs:line 23
+   at WeaponPaints.WeaponPaints.GiveOnItemPickup(CCSPlayerController player) in /home/runner/work/cs2-WeaponPaints/cs2-WeaponPaints/WeaponAction.cs:line 555
+   at WeaponPaints.WeaponPaints.OnItemPickup(EventItemPickup event, GameEventInfo _) in /home/runner/work/cs2-WeaponPaints/cs2-WeaponPaints/Events.cs:line 296
+   at InvokeStub_GameEventHandler`1.Invoke(Object, Span`1)
+   at System.Reflection.MethodBaseInvoker.InvokeWithFewArgs(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   --- End of inner exception stack trace ---
+   at System.Reflection.MethodBaseInvoker.InvokeWithFewArgs(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at CounterStrikeSharp.API.Core.FunctionReference.<CreateWrappedCallback>b__18_0(fxScriptContext* context) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/FunctionReference.cs:line 100
+2024-10-28 12:30:48.870 +03:00 [EROR] (cssharp:Core) Error invoking callback
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.Collections.Generic.KeyNotFoundException: The given key 'CounterTerrorist' was not present in the dictionary.
+   at System.Collections.Concurrent.ConcurrentDictionary`2.ThrowKeyNotFoundException(TKey key)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.get_Item(TKey key)
+   at WeaponPaints.WeaponPaints.GivePlayerWeaponSkin(CCSPlayerController player, CBasePlayerWeapon weapon) in /home/runner/work/cs2-WeaponPaints/cs2-WeaponPaints/WeaponAction.cs:line 23
+   at WeaponPaints.WeaponPaints.GiveOnItemPickup(CCSPlayerController player) in /home/runner/work/cs2-WeaponPaints/cs2-WeaponPaints/WeaponAction.cs:line 555
+   at WeaponPaints.WeaponPaints.OnItemPickup(EventItemPickup event, GameEventInfo _) in /home/runner/work/cs2-WeaponPaints/cs2-WeaponPaints/Events.cs:line 296
+   at InvokeStub_GameEventHandler`1.Invoke(Object, Span`1)
+   at System.Reflection.MethodBaseInvoker.InvokeWithFewArgs(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   --- End of inner exception stack trace ---
+   at System.Reflection.MethodBaseInvoker.InvokeWithFewArgs(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at CounterStrikeSharp.API.Core.FunctionReference.<CreateWrappedCallback>b__18_0(fxScriptContext* context) in /home/runner/work/CounterStrikeSharp/CounterStrikeSharp/managed/CounterStrikeSharp.API/Core/FunctionReference.cs:line 100

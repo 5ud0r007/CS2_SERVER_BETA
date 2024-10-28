@@ -1,0 +1,165 @@
+2024-10-27 00:42:23.809 +03:00 [EROR] plugin:IksAdmin DB ERROR: MySqlConnector.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts.
+   at MySqlConnector.Core.ServerSession.OpenTcpSocketAsync(ConnectionSettings cs, ILoadBalancer loadBalancer, Activity activity, IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/Core/ServerSession.cs:line 1116
+   at MySqlConnector.Core.ServerSession.ConnectAsync(ConnectionSettings cs, MySqlConnection connection, Int64 startingTimestamp, ILoadBalancer loadBalancer, Activity activity, IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/Core/ServerSession.cs:line 444
+   at MySqlConnector.Core.ConnectionPool.ConnectSessionAsync(MySqlConnection connection, Action`4 logMessage, Int64 startingTimestamp, Activity activity, IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/Core/ConnectionPool.cs:line 428
+   at MySqlConnector.Core.ConnectionPool.ConnectSessionAsync(MySqlConnection connection, Action`4 logMessage, Int64 startingTimestamp, Activity activity, IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/Core/ConnectionPool.cs:line 433
+   at MySqlConnector.Core.ConnectionPool.GetSessionAsync(MySqlConnection connection, Int64 startingTimestamp, Int32 timeoutMilliseconds, Activity activity, IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/Core/ConnectionPool.cs:line 113
+   at MySqlConnector.Core.ConnectionPool.GetSessionAsync(MySqlConnection connection, Int64 startingTimestamp, Int32 timeoutMilliseconds, Activity activity, IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/Core/ConnectionPool.cs:line 146
+   at MySqlConnector.MySqlConnection.CreateSessionAsync(ConnectionPool pool, Int64 startingTimestamp, Activity activity, Nullable`1 ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/MySqlConnection.cs:line 919
+   at MySqlConnector.MySqlConnection.OpenAsync(Nullable`1 ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/MySqlConnection.cs:line 419
+   at IksAdmin.PluginApi.CreateTables() in E:\_pluginsWork\Iks_Admin-2.1.9.1\IksAdmin\IksAdmin.cs:line 932
+   at IksAdmin.PluginApi.CreateTables() in E:\_pluginsWork\Iks_Admin-2.1.9.1\IksAdmin\IksAdmin.cs:line 1002
+2024-10-27 00:42:23.964 +03:00 [EROR] plugin:IksAdmin DB ERROR: MySqlConnector.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts.
+   at MySqlConnector.Core.ServerSession.OpenTcpSocketAsync(ConnectionSettings cs, ILoadBalancer loadBalancer, Activity activity, IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/Core/ServerSession.cs:line 1116
+   at MySqlConnector.Core.ServerSession.ConnectAsync(ConnectionSettings cs, MySqlConnection connection, Int64 startingTimestamp, ILoadBalancer loadBalancer, Activity activity, IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/Core/ServerSession.cs:line 444
+   at MySqlConnector.Core.ConnectionPool.ConnectSessionAsync(MySqlConnection connection, Action`4 logMessage, Int64 startingTimestamp, Activity activity, IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/Core/ConnectionPool.cs:line 428
+   at MySqlConnector.Core.ConnectionPool.ConnectSessionAsync(MySqlConnection connection, Action`4 logMessage, Int64 startingTimestamp, Activity activity, IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/Core/ConnectionPool.cs:line 433
+   at MySqlConnector.Core.ConnectionPool.GetSessionAsync(MySqlConnection connection, Int64 startingTimestamp, Int32 timeoutMilliseconds, Activity activity, IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/Core/ConnectionPool.cs:line 113
+   at MySqlConnector.Core.ConnectionPool.GetSessionAsync(MySqlConnection connection, Int64 startingTimestamp, Int32 timeoutMilliseconds, Activity activity, IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/Core/ConnectionPool.cs:line 146
+   at MySqlConnector.MySqlConnection.CreateSessionAsync(ConnectionPool pool, Int64 startingTimestamp, Activity activity, Nullable`1 ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/MySqlConnection.cs:line 919
+   at MySqlConnector.MySqlConnection.OpenAsync(Nullable`1 ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/MySqlConnection.cs:line 419
+   at IksAdmin.PluginApi.GetAllAdmins() in E:\_pluginsWork\Iks_Admin-2.1.9.1\IksAdmin\IksAdmin.cs:line 1186
+   at IksAdmin.PluginApi.GetAllAdmins() in E:\_pluginsWork\Iks_Admin-2.1.9.1\IksAdmin\IksAdmin.cs:line 1198
+2024-10-27 00:42:23.965 +03:00 [INFO] plugin:IksAdmin Admins loaded
+2024-10-27 00:42:23.965 +03:00 [INFO] plugin:IksAdmin ThisServerAdmins: 0
+2024-10-27 00:42:23.965 +03:00 [INFO] plugin:IksAdmin admins: 0
+2024-10-27 00:42:32.023 +03:00 [EROR] plugin:IksAdmin DB ERROR: MySqlConnector.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts.
+   at MySqlConnector.Core.ServerSession.OpenTcpSocketAsync(ConnectionSettings cs, ILoadBalancer loadBalancer, Activity activity, IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/Core/ServerSession.cs:line 1116
+   at MySqlConnector.Core.ServerSession.ConnectAsync(ConnectionSettings cs, MySqlConnection connection, Int64 startingTimestamp, ILoadBalancer loadBalancer, Activity activity, IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/Core/ServerSession.cs:line 444
+   at MySqlConnector.Core.ConnectionPool.ConnectSessionAsync(MySqlConnection connection, Action`4 logMessage, Int64 startingTimestamp, Activity activity, IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/Core/ConnectionPool.cs:line 428
+   at MySqlConnector.Core.ConnectionPool.ConnectSessionAsync(MySqlConnection connection, Action`4 logMessage, Int64 startingTimestamp, Activity activity, IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/Core/ConnectionPool.cs:line 433
+   at MySqlConnector.Core.ConnectionPool.GetSessionAsync(MySqlConnection connection, Int64 startingTimestamp, Int32 timeoutMilliseconds, Activity activity, IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/Core/ConnectionPool.cs:line 113
+   at MySqlConnector.Core.ConnectionPool.GetSessionAsync(MySqlConnection connection, Int64 startingTimestamp, Int32 timeoutMilliseconds, Activity activity, IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/Core/ConnectionPool.cs:line 146
+   at MySqlConnector.MySqlConnection.CreateSessionAsync(ConnectionPool pool, Int64 startingTimestamp, Activity activity, Nullable`1 ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/MySqlConnection.cs:line 919
+   at MySqlConnector.MySqlConnection.OpenAsync(Nullable`1 ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/MySqlConnection.cs:line 419
+   at IksAdmin.PluginApi.GetAdmin(String sid) in E:\_pluginsWork\Iks_Admin-2.1.9.1\IksAdmin\IksAdmin.cs:line 1150
+   at IksAdmin.PluginApi.GetAdmin(String sid) in E:\_pluginsWork\Iks_Admin-2.1.9.1\IksAdmin\IksAdmin.cs:line 1164
+2024-10-27 00:47:27.367 +03:00 [INFO] plugin:IksAdmin Admins loaded
+2024-10-27 00:47:27.376 +03:00 [INFO] plugin:IksAdmin ThisServerAdmins: 0
+2024-10-27 00:47:27.376 +03:00 [INFO] plugin:IksAdmin admins: 0
+2024-10-27 00:50:05.073 +03:00 [INFO] plugin:IksAdmin Admins loaded
+2024-10-27 00:50:05.080 +03:00 [INFO] plugin:IksAdmin ThisServerAdmins: 1
+2024-10-27 00:50:05.081 +03:00 [INFO] plugin:IksAdmin admins: 1
+2024-10-27 01:31:59.368 +03:00 [INFO] plugin:IksAdmin Admins loaded
+2024-10-27 01:31:59.378 +03:00 [INFO] plugin:IksAdmin ThisServerAdmins: 1
+2024-10-27 01:31:59.378 +03:00 [INFO] plugin:IksAdmin admins: 1
+2024-10-27 01:42:37.467 +03:00 [INFO] plugin:IksAdmin Admins loaded
+2024-10-27 01:42:37.474 +03:00 [INFO] plugin:IksAdmin ThisServerAdmins: 1
+2024-10-27 01:42:37.474 +03:00 [INFO] plugin:IksAdmin admins: 1
+2024-10-27 01:46:25.092 +03:00 [INFO] plugin:IksAdmin Admins loaded
+2024-10-27 01:46:25.098 +03:00 [INFO] plugin:IksAdmin ThisServerAdmins: 1
+2024-10-27 01:46:25.099 +03:00 [INFO] plugin:IksAdmin admins: 1
+2024-10-27 01:51:07.268 +03:00 [INFO] plugin:IksAdmin Admins loaded
+2024-10-27 01:51:07.275 +03:00 [INFO] plugin:IksAdmin ThisServerAdmins: 1
+2024-10-27 01:51:07.275 +03:00 [INFO] plugin:IksAdmin admins: 1
+2024-10-27 01:52:57.773 +03:00 [INFO] plugin:IksAdmin Admins loaded
+2024-10-27 01:52:57.868 +03:00 [INFO] plugin:IksAdmin ThisServerAdmins: 1
+2024-10-27 01:52:57.868 +03:00 [INFO] plugin:IksAdmin admins: 1
+2024-10-27 01:55:18.699 +03:00 [INFO] plugin:IksAdmin Admins loaded
+2024-10-27 01:55:18.768 +03:00 [INFO] plugin:IksAdmin ThisServerAdmins: 1
+2024-10-27 01:55:18.768 +03:00 [INFO] plugin:IksAdmin admins: 1
+2024-10-27 01:59:39.482 +03:00 [INFO] plugin:IksAdmin Admins loaded
+2024-10-27 01:59:39.489 +03:00 [INFO] plugin:IksAdmin ThisServerAdmins: 1
+2024-10-27 01:59:39.489 +03:00 [INFO] plugin:IksAdmin admins: 1
+2024-10-27 01:59:54.791 +03:00 [INFO] plugin:IksAdmin Admins loaded
+2024-10-27 01:59:54.867 +03:00 [INFO] plugin:IksAdmin ThisServerAdmins: 1
+2024-10-27 01:59:54.867 +03:00 [INFO] plugin:IksAdmin admins: 1
+2024-10-27 02:00:14.898 +03:00 [INFO] plugin:IksAdmin Admins loaded
+2024-10-27 02:00:14.905 +03:00 [INFO] plugin:IksAdmin ThisServerAdmins: 1
+2024-10-27 02:00:14.905 +03:00 [INFO] plugin:IksAdmin admins: 1
+2024-10-27 02:00:36.470 +03:00 [INFO] plugin:IksAdmin Admins loaded
+2024-10-27 02:00:36.478 +03:00 [INFO] plugin:IksAdmin ThisServerAdmins: 1
+2024-10-27 02:00:36.478 +03:00 [INFO] plugin:IksAdmin admins: 1
+2024-10-27 02:03:15.778 +03:00 [INFO] plugin:IksAdmin Admins loaded
+2024-10-27 02:03:15.786 +03:00 [INFO] plugin:IksAdmin ThisServerAdmins: 1
+2024-10-27 02:03:15.786 +03:00 [INFO] plugin:IksAdmin admins: 1
+2024-10-27 02:03:30.591 +03:00 [INFO] plugin:IksAdmin Admins loaded
+2024-10-27 02:03:30.598 +03:00 [INFO] plugin:IksAdmin ThisServerAdmins: 1
+2024-10-27 02:03:30.598 +03:00 [INFO] plugin:IksAdmin admins: 1
+2024-10-27 02:04:26.776 +03:00 [INFO] plugin:IksAdmin Admins loaded
+2024-10-27 02:04:26.785 +03:00 [INFO] plugin:IksAdmin ThisServerAdmins: 1
+2024-10-27 02:04:26.785 +03:00 [INFO] plugin:IksAdmin admins: 1
+2024-10-27 02:04:42.095 +03:00 [INFO] plugin:IksAdmin Admins loaded
+2024-10-27 02:04:42.102 +03:00 [INFO] plugin:IksAdmin ThisServerAdmins: 1
+2024-10-27 02:04:42.102 +03:00 [INFO] plugin:IksAdmin admins: 1
+2024-10-27 02:06:45.479 +03:00 [INFO] plugin:IksAdmin Admins loaded
+2024-10-27 02:06:45.486 +03:00 [INFO] plugin:IksAdmin ThisServerAdmins: 1
+2024-10-27 02:06:45.486 +03:00 [INFO] plugin:IksAdmin admins: 1
+2024-10-27 02:11:21.675 +03:00 [INFO] plugin:IksAdmin Admins loaded
+2024-10-27 02:11:21.765 +03:00 [INFO] plugin:IksAdmin ThisServerAdmins: 1
+2024-10-27 02:11:21.765 +03:00 [INFO] plugin:IksAdmin admins: 1
+2024-10-27 02:12:41.268 +03:00 [INFO] plugin:IksAdmin Admins loaded
+2024-10-27 02:12:41.275 +03:00 [INFO] plugin:IksAdmin ThisServerAdmins: 1
+2024-10-27 02:12:41.276 +03:00 [INFO] plugin:IksAdmin admins: 1
+2024-10-27 02:55:52.494 +03:00 [INFO] plugin:IksAdmin Admins loaded
+2024-10-27 02:55:52.501 +03:00 [INFO] plugin:IksAdmin ThisServerAdmins: 1
+2024-10-27 02:55:52.502 +03:00 [INFO] plugin:IksAdmin admins: 1
+2024-10-27 03:00:11.281 +03:00 [INFO] plugin:IksAdmin Admins loaded
+2024-10-27 03:00:11.288 +03:00 [INFO] plugin:IksAdmin ThisServerAdmins: 1
+2024-10-27 03:00:11.288 +03:00 [INFO] plugin:IksAdmin admins: 1
+2024-10-27 03:02:49.870 +03:00 [INFO] plugin:IksAdmin Admins loaded
+2024-10-27 03:02:49.877 +03:00 [INFO] plugin:IksAdmin ThisServerAdmins: 1
+2024-10-27 03:02:49.877 +03:00 [INFO] plugin:IksAdmin admins: 1
+2024-10-27 03:03:04.367 +03:00 [INFO] plugin:IksAdmin Admins loaded
+2024-10-27 03:03:04.465 +03:00 [INFO] plugin:IksAdmin ThisServerAdmins: 1
+2024-10-27 03:03:04.465 +03:00 [INFO] plugin:IksAdmin admins: 1
+2024-10-27 03:03:26.471 +03:00 [INFO] plugin:IksAdmin Admins loaded
+2024-10-27 03:03:26.479 +03:00 [INFO] plugin:IksAdmin ThisServerAdmins: 1
+2024-10-27 03:03:26.480 +03:00 [INFO] plugin:IksAdmin admins: 1
+2024-10-27 03:04:09.184 +03:00 [INFO] plugin:IksAdmin Admins loaded
+2024-10-27 03:04:09.264 +03:00 [INFO] plugin:IksAdmin ThisServerAdmins: 1
+2024-10-27 03:04:09.264 +03:00 [INFO] plugin:IksAdmin admins: 1
+2024-10-27 03:07:46.775 +03:00 [INFO] plugin:IksAdmin Admins loaded
+2024-10-27 03:07:46.868 +03:00 [INFO] plugin:IksAdmin ThisServerAdmins: 1
+2024-10-27 03:07:46.868 +03:00 [INFO] plugin:IksAdmin admins: 1
+2024-10-27 03:10:50.076 +03:00 [INFO] plugin:IksAdmin Admins loaded
+2024-10-27 03:10:50.082 +03:00 [INFO] plugin:IksAdmin ThisServerAdmins: 1
+2024-10-27 03:10:50.082 +03:00 [INFO] plugin:IksAdmin admins: 1
+2024-10-27 03:11:05.472 +03:00 [INFO] plugin:IksAdmin Admins loaded
+2024-10-27 03:11:05.479 +03:00 [INFO] plugin:IksAdmin ThisServerAdmins: 1
+2024-10-27 03:11:05.479 +03:00 [INFO] plugin:IksAdmin admins: 1
+2024-10-27 03:12:46.606 +03:00 [INFO] plugin:IksAdmin Admins loaded
+2024-10-27 03:12:46.665 +03:00 [INFO] plugin:IksAdmin ThisServerAdmins: 1
+2024-10-27 03:12:46.665 +03:00 [INFO] plugin:IksAdmin admins: 1
+2024-10-27 11:21:49.469 +03:00 [INFO] plugin:IksAdmin Admins loaded
+2024-10-27 11:21:49.477 +03:00 [INFO] plugin:IksAdmin ThisServerAdmins: 1
+2024-10-27 11:21:49.477 +03:00 [INFO] plugin:IksAdmin admins: 1
+2024-10-27 12:55:12.387 +03:00 [INFO] plugin:IksAdmin Admins loaded
+2024-10-27 12:55:12.405 +03:00 [INFO] plugin:IksAdmin ThisServerAdmins: 1
+2024-10-27 12:55:12.405 +03:00 [INFO] plugin:IksAdmin admins: 1
+2024-10-27 12:56:09.472 +03:00 [INFO] plugin:IksAdmin Admins loaded
+2024-10-27 12:56:09.570 +03:00 [INFO] plugin:IksAdmin ThisServerAdmins: 1
+2024-10-27 12:56:09.571 +03:00 [INFO] plugin:IksAdmin admins: 1
+2024-10-27 12:56:38.674 +03:00 [INFO] plugin:IksAdmin Admins loaded
+2024-10-27 12:56:38.865 +03:00 [INFO] plugin:IksAdmin ThisServerAdmins: 1
+2024-10-27 12:56:38.865 +03:00 [INFO] plugin:IksAdmin admins: 1
+2024-10-27 12:59:20.187 +03:00 [INFO] plugin:IksAdmin Admins loaded
+2024-10-27 12:59:20.195 +03:00 [INFO] plugin:IksAdmin ThisServerAdmins: 1
+2024-10-27 12:59:20.263 +03:00 [INFO] plugin:IksAdmin admins: 1
+2024-10-27 13:10:09.770 +03:00 [INFO] plugin:IksAdmin Admins loaded
+2024-10-27 13:10:09.778 +03:00 [INFO] plugin:IksAdmin ThisServerAdmins: 1
+2024-10-27 13:10:09.778 +03:00 [INFO] plugin:IksAdmin admins: 1
+2024-10-27 16:36:19.683 +03:00 [INFO] plugin:IksAdmin Admins loaded
+2024-10-27 16:36:19.690 +03:00 [INFO] plugin:IksAdmin ThisServerAdmins: 1
+2024-10-27 16:36:19.691 +03:00 [INFO] plugin:IksAdmin admins: 1
+2024-10-27 20:48:46.569 +03:00 [INFO] plugin:IksAdmin Admins loaded
+2024-10-27 20:48:46.578 +03:00 [INFO] plugin:IksAdmin ThisServerAdmins: 1
+2024-10-27 20:48:46.579 +03:00 [INFO] plugin:IksAdmin admins: 1
+2024-10-27 20:53:29.969 +03:00 [INFO] plugin:IksAdmin Admins loaded
+2024-10-27 20:53:29.978 +03:00 [INFO] plugin:IksAdmin ThisServerAdmins: 1
+2024-10-27 20:53:29.978 +03:00 [INFO] plugin:IksAdmin admins: 1
+2024-10-27 20:55:54.773 +03:00 [INFO] plugin:IksAdmin Admins loaded
+2024-10-27 20:55:54.781 +03:00 [INFO] plugin:IksAdmin ThisServerAdmins: 1
+2024-10-27 20:55:54.781 +03:00 [INFO] plugin:IksAdmin admins: 1
+2024-10-27 21:02:00.076 +03:00 [INFO] plugin:IksAdmin Admins loaded
+2024-10-27 21:02:00.165 +03:00 [INFO] plugin:IksAdmin ThisServerAdmins: 1
+2024-10-27 21:02:00.165 +03:00 [INFO] plugin:IksAdmin admins: 1
+2024-10-27 21:02:58.486 +03:00 [INFO] plugin:IksAdmin Admins loaded
+2024-10-27 21:02:58.494 +03:00 [INFO] plugin:IksAdmin ThisServerAdmins: 1
+2024-10-27 21:02:58.494 +03:00 [INFO] plugin:IksAdmin admins: 1
+2024-10-27 22:56:28.385 +03:00 [INFO] plugin:IksAdmin Admins loaded
+2024-10-27 22:56:28.470 +03:00 [INFO] plugin:IksAdmin ThisServerAdmins: 1
+2024-10-27 22:56:28.470 +03:00 [INFO] plugin:IksAdmin admins: 1
+2024-10-27 22:57:25.774 +03:00 [INFO] plugin:IksAdmin Admins loaded
+2024-10-27 22:57:25.870 +03:00 [INFO] plugin:IksAdmin ThisServerAdmins: 1
+2024-10-27 22:57:25.870 +03:00 [INFO] plugin:IksAdmin admins: 1
